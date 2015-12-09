@@ -1,0 +1,1976 @@
+customer,first_name,last_name,email,customer,line_items,name,price,quantity,line_items,shipping_address,first_name,last_name,company,address1,phone,country,zip,shipping_address,note,tags,processed_at
+
+,Jon,Fleming,jonflemingphotography@gmail.com,,,PRINTER+,8800,1,,,Jon,Fleming,,"25491 Cancello Terrace
+Chantilly VA 20152",703 209 0175,US,20152,,YesYes,Stripe - Leasestation,10/27/2015
+
+,Marissa,Rosen / Brett Dunst,marissa.rosen@dreamhost.com,,,PRINTER+,8800,1,,,Marissa,Rosen / Brett Dunst,,"DreamHost135 S. State College BlvdSuite #500Brea California 92821",909 851 2860,US,92821,,YesYes,StripeWebsite,1/13/2015
+
+,Craig,Stubing,craig@craigstubing.com,,,PRINTER+,9300,1,,,Craig,Stubing,,"Craig Stubing 3502 WATT WAY ASC G24 Los Angeles California 90089",847-530-4322,US,90089,,YesYes,StripeWebsite,1/15/2015
+
+,Maria,Corvallis,maria@petercorvallis.com,,,PRINTER+,8700,1,,,Maria,Corvallis,,"Peter Corvallis 2204 N. Clark Ave. Portland OR 97227",503-222-1664,US,97227,,YesYes,StripeFreshbooks,1/15/2015
+
+,Alicia,Burgos,burgosaliciam@gmail.com,,,PRINTER,7200,1,,,Alicia,Burgos,,"494 W Calle Primera Ste. San Ysidro California 92173",(52) 19847459832,US,92173,,YesYes,Stripe - Jotform (Two payments of $3600),1/17/2014
+
+,Todd,Wiener,twiener@aaronconsulting.com,,,PRINTER+,8300,1,,,Todd,Wiener,,"377 Fifth Street Brooklyn NY 11215",(646) 2743565,US,11215,,YesYes,Stripe - Jotform,1/17/2014
+
+,Daniel,Gutierrez,danielg@choice1ent.com,,,PRINTER+,9200,1,,,Daniel,Gutierrez,,"1832 Geranio Dr Alhambra CA 91801",626-235-1011,US,91801,,YesYes,Cash,1/18/2015
+
+,Jamie,Schneider,info@darkroux.com,,,PRINTER,7475,1,,,Jamie,Schneider,Dark Roux Photography LLC,"1444 Owl ct Mandeville Louisiana 70448",(504) 905-4367,US,70448,,YesNo,StripeFreshbooks,1/19/2015
+
+,Kaitlin,Crowell,kaitlavin@gmail.com,,,PRINTER,7975,1,,,Kaitlin,Crowell,,"KaitLavin Photo 154 Court Street Auburn Maine 04210",(207) 619-2454,US,4210,,YesNo,Bank Transfer - LeaseStation,1/19/2015
+
+,Boyd,Ferguson,boydferguson@hotmail.com,,,PRINTER,7200,1,,,Boyd,Ferguson,,"#302 2353 Marpole Ave Port Coquitlam BC V3C 2A1 Canada",(604) 7541046,CA,V3C 2A1,,YesYes,Stripe - Jotform,1/2/2014
+
+,Amanda,Ku,amanda@poseandpucker.com,,,PRINTER+,8800,1,,,Amanda,Ku,,"Pose & PUcker Photobooth
+398 Panatella Square NW
+Calgary
+Alberta
+T3K 0T7
+Canada",1-403-613-3023,CA,T3K 0T7,,YesYes,StripeWebsite,1/20/2015
+
+,Joseph,Esser,info@esserphotography.com,,,BASIC,6900,1,,,Joseph,Esser,,"Joseph Esser
+Joseph Esser PHotography LLC
+91-1449 Kaikohola St
+Ewa Beach Hawaii 96706",8082591475,US,96706,,YesYes,StripeWebsite,1/21/2015
+
+,Kyle,Wills,kyle_wills2@cable.comcast.com,,,PRINTER+,9300,1,,,Kyle,Wills,,"Judith Cyr
+Comcast
+222 New Park Dr.
+Berlin Connecticut 06037",8605081688,US,6037,,YesYes,StripeWebsite,1/21/2015
+
+,Steve,Gunter,steveg@thelibrarystore.com,,,PRINTER+,9300,1,,,Steve,Gunter,,"Steve Gunter
+The Library Store
+301 E South Street
+Tremont Illinois 61568",309-925-7942,US,61568,,YesYes,StripeWebsite,1/21/2015
+
+,Shelli,Mathews,info@divisistrings.com,,,BASIC,6900,1,,,Shelli,Mathews,,"divisi strings llc
+510 richmond avenue
+131
+houston Texas 77006",2817726431,US,77006,,YesYes,StripeWebsite,1/22/2015
+
+,Jared,Rey,jared@jaredrey.com,,,BASIC,5650,1,,,Jared,Rey,,"Jared Hernandez
+141 Painted Trail
+Forney TX 75126
+United States",,US,75126,,YesYes,Paypal,1/23/2014
+
+,Adam,Richins,richinsphoto@aol.com,,,BASIC,5750,1,,,Adam,Richins,,"Adam Richins
+5 Upland Rd
+Framigham MA
+01701",781-375-8282,US,1701,,NoNo,StripeFreshbooks,1/23/2015
+
+,Adam,Richins,richinsphoto@aol.com,,,,$225,1,,,Adam,Richins,,"Adam Richins
+5 Upland Rd
+Framigham MA
+01701",781-375-8282,US,1701,,,,1/23/2015
+
+,Amber,Jones,amber@studiopura.com,,,PRINTER,6075,1,,,Amber,Jones,,"485 New Park Ave. 2nd Floor
+West Hartford Connecticut 06062",(860) 5505454,US,6062,,NoNo,Stripe - Jotform,1/25/2014
+
+,Samantha,Wilson,s.wilson91@live.co.uk,,,BASIC,5600,1,,,Samantha,Wilson,,"50/40 Soi Glumyang Chalong Muang Phuket 83130 Thailand",(+66) 815690225,Thailand,,,NoYes,Stripe - Jotform ($5300 + $300),1/25/2014
+
+,Elizabeth,Lui,lizluiphotography@gmail.com,,,BASIC,6900,1,,,Elizabeth,Lui,,"Liz Lui Photography LLC
+1137 N WOOD ST
+Apt. 1E
+CHICAGO Illinois 60622",3603334741,US,60622,,YesYes,StripeWebsite,1/25/2015
+
+,Lauren,Mathena,laurenmathena@gmail.com,,,PRINTER+,9300,1,,,Lauren,Mathena,,"205 Eagle lane
+danville Virginia 24540",4342501749,US,24540,,YesYes,StripeWebsite,1/25/2015
+
+,Josh,Lynch,surfing4u4@gmail.com,,,BASIC,6900,1,,,Josh,Lynch,,"Joshua Lynch Crush Entertainment 43 Cobblestone CT Hilton Head Island South Carolina 29928",(414) 617-8916,US,29928,,YesYes,StripeWebsite,1/26/2014
+
+,Sarah,Martinez,hello@iamsarahv.com,,,PRINTER,5070,1,,,Sarah,Martinez,,"9 Berkshire Lane Dover NH 03820",(858) 922-7251,US,3820,,NoNo,Stripe - Jotform (Sarah Raymond),1/27/2014
+
+,Fer,Juaristi,info@ferjuaristi.com,,,PRINTER+,1270000",2,,,Fer,Juaristi,,"701 N. Intl. Blvd Suite 101-1022
+Hidalgo TX 78557",5218111894253,US,78557,,YesYes,Paypal,1/27/2014
+
+,Jared,Haskell,jared@highsailsmedia.com,,,BASIC,6900,1,,,Jared,Haskell,,"High sails media
+5 Hastings St
+Mendon Massachusetts 01756",7742930240,US,1756,,YesYes,StripeWebsite,1/27/2015
+
+,Jesse,Starr,jesse@jessestarrphotography.com,,,PRINTER,6875,1,,,Jesse,Starr,,"137 W. Benchmark Rd.
+Avon CO 81620",(781) 640-0011,US,81620,,NoNo,Bank Transfer,1/27/2015
+
+,Lauren,Mehl,laurenashleymehl@gmail.com,,,PRINTER,7200,1,,,Lauren,Mehl,,"325 W. Mulberry St. Fort Collins Colorado 80521",(908) 2684967,US,80521,,YesYes,Stripe - Jotform (Carol Mehl),1/28/2014
+
+,Leandro,Da Silva,ldasilva@me.com,,,PRINTER+,7175,1,,,Leandro,Da Silva,,506 Park Place Lyndhurst Nj 07071,2019889639,US,7071,,NoNo,Stripe - Jotform,1/28/2014
+
+,Jordan,Dorbandt,jordie.ottosavu@gmail.com,,,PRINTER+,9300,1,,,Jordan,Dorbandt,,"JDDJ's LTD
+5101 49th ave
+olds
+Alberta
+T4H 1E7
+Canada",14035594400,CA,T4H 1E7,,YesYes,StripeWebsite,1/28/2015
+
+,Ang,Waterton,ang@momentusstudio.com,,,PRINTER,6075,1,,,Ang,Waterton,,"267 Trippany Rd Massena NY 13662",(613) 3623314,US,13662,,NoNo,Stripe - Jotform ($3075.50 + $3075.50),1/29/2014
+
+,Christopher,Sturniolo,csturniolo@gmail.com,,,PRINTER,7200,1,,,Christopher,Sturniolo,,"387 Corona St. Suite 518 Denver CO 80218",(303) 8884672,US,80218,,YesYes,Stripe - Jotform,1/29/2014
+
+,Karina,Pichache,photo@ohkarina.com,,,BASIC,4775,1,,,Karina,Pichache,,"22 Chiswick Road Apt 15 Brighton Massachusetts 02135",(203) 570-8812,US,2135,,NoNo,Stripe - Jotform,1/29/2014
+
+,Andrew,Ludewig,mtiphotographyllc@gmail.com,,,BASIC,6900,1,,,Andrew,Ludewig,,"MTI Photography llc
+694 Tanyard Road
+Woodbury New Jersey 08096",8563716638,US,8096,,NoYes,StripeWebsite,1/29/2015
+
+,Cameron,Ingalls,cameron@cameroningalls.com,,,PRINTER+,8800,1,,,Cameron,Ingalls,,"731 Grove St
+San Luis Obispo CA 93401",(805) 785-0209,US,93401,,YesYes,Bank Transfer,1/29/2015
+
+,Cheryl,Ingram White,ca_iw@hotmail.com,,,PRINTER,8200,1,,,Cheryl,Ingram White,,"11911 Winged Foot Court
+Waldorf MD 20602",(202) 834-3406,US,20602,,YesYes,Bank Transfer,1/29/2015
+
+,Joel,Martin,joel.martin@lawtigers.com,,,BASIC,6900,1,,,Joel,Martin,,"AAMIL Inc.
+362 N. Third Avenue
+Phoenix Arizona 85003",6022717029,US,85003,,YesYes,StripeWebsite,1/29/2015
+
+,Alex,Lupayade,Alapuyade@gmail.com,,,PRINTER+,8800,1,,,Alex,Lupayade,,"161 Jordan Ave. Unit #1
+San Francisco CA 94118",707-227-4084,US,94118,,YesYes,Check,1/8/2015
+
+,Tim,Fair,laurenfairphoto@gmail.com,,,PRINTER,7200,1,,,Tim,Fair,,"1470 Hendricks Rd Pennsburg PA 18073",(267) 2102691,US,18073,,YesYes,Stripe - Jotform,1/9/2014
+
+,Christina,Wee,cwee25@gmail.com,,,PRINTER,7700,1,,,Christina,Wee,,"35 hadley drIve
+Robbinsville New Jersey 08691",6095325555,US,8691,,YesYes,StripeWebsite,1/9/2015
+
+,Brian,Checkovich,bcheckovich@gmail.com,,,PRINTER+,8200,1,,,Brian,Checkovich,,"955 Church Street Smyrna GA 30080",4048380955,US,30080,,NoYes,StripeWebsite,10/1/2015
+
+,Jennifer,Martinez,bookjenskye@gmail.com,,,PRINTER+,9800,1,,,Jennifer,Martinez,,"305 Palisades Ave Apt 609
+Cliffside Park NJ 07010",(914) 661-0307,US,7010,,YesYes,StripeFreshbooks,10/1/2015
+
+,Joanne,Griffonetti,griffonj@preit.com,,,PRINTER+,9800,1,,,Joanne,Griffonetti,,"Crossroads Mall Management Office Attn: Kathy Housh 2 Crossroads Mall Mount Hope WV 25880",2158751613,US,25880,,YesYes,StripeWebsite,10/1/2015
+
+,Laura,D'Addezio,laura@lauraannmiller.com,,,PRINTER,4200,1,,,Laura,D'Addezio,,"2227 Yale Ave
+Saint Louis MO 63143",(618) 792-0952,US,63143,,YesYes,"StripeFreshbooks | LeaseStation",10/1/2015
+
+,Charlotte,Williams,charlotte.n.williams@gmail.com,,,PRINTER,8200,1,,,Charlotte,Williams,,"Shipping Address: Charlotte williams Boulan south beach hotel 2000 collins ave miami Florida 33139",2687282423,United Kingdom,,,YesYes,StripeWebsite,10/11/2014
+
+,Kristen,Wilcox,kwilcox@gradimages.com,,,PRINTER+,9550,1,,,Kristen,Wilcox,,"3490 martin hurst rd tallahassee Florida 32312",850-906-3524,US,32312,,YesYes,StripeFreshbooks,10/11/2015
+
+,Jaime,Hazen,gingepepper@yahoo.com,,,PRINTER+,9800,1,,,Jaime,Hazen,,"36758 Fish Hatchery Ln
+Nehalem Oregon 97131",5039576429,US,97131,,YesYes,Check,10/12/2015
+
+,Kathy,DeNinno,kathydeninno@gmail.com,,,PRINTER,8100,1,,,Kathy,DeNinno,,"510 S Spring Street #406
+Los Angeles CA 90013 ",714.642.6910,US,13,,YesYes,StripeFreshbooks,10/13/2014
+
+,Robert,Steed,info@photoeventbooth.ca,,,PRINTER+,4350,1,,,Robert,Steed,,"trsl enterprises ltd. 231 - 7 street ne calgary Alberta T2E4C1 Canada",403-828-8465,CA,T2E4C1,,NoYes,"StripeWebsite | StripeFreshbooks",10/13/2014
+
+,Nicole,Buckman,nicole.buckman@caa.com,,,PRINTER+,9300,1,,,Nicole,Buckman,,"Creative Artists Agency 2000 Avenue of the Stars Los Angeles California 90067",4242882000,US,90067,,YesYes,"StripeWebsite | StripeFreshbooks",10/14/2014
+
+,Keisha,Hazen,keisha@cafeza.com,,,PRINTER+,9300,1,,,Keisha,Hazen,,"1807 Hickory St Houston Texas 77007",415-420-7351,US,77007,,YesYes,StripeWebsite,10/14/2015
+
+,Lara,Cochran,lara@destinyworship.com,,,PRINTER,8320,1,,,Lara,Cochran,Destiny Worship Center,"122 Poinciana Blvd Miramar Beach FL 32550",850-650-6800,US,32550,,YesYes,StripeFreshbooks,10/14/2015
+
+,Jasser,Abu-Giemi,edmonton@readysetbooth.com,,,PRINTER,7200,1,,,Jasser,Abu-Giemi,,"Jasser Abu-Giemi c/o Leduc Hearing Clinic Suite #1 5204 50th St Leduc AB CANADA T9E 6Z6",(780) 986-8424,CA,T9E 6Z6,,YesYes,Paypal $3650 (Creative Culture Events) / Phone Groupon $3650,10/15/2013
+
+,Kevin,Wildt,me@kevinwildt.com,,,PRINTER+,4650,1,,,Kevin,Wildt,,"Kevin Wildt 2437 S. Lulu Wichita Kansas 67216",67216,US,67216,,YesYes,"StripeWebsite | StripeFreshbooks",10/15/2014
+
+,Jennifer,Aguilar,info@jrphotony.com,,,PRINTER+,9300,1,,,Jennifer,Aguilar,,"2 overlook terrace fords New Jersey 08863",9174407500,US,8863,,YesYes,StripeWebsite,10/15/2015
+
+,Richard,Hardin,richard@thehardinhouse.com,,,PRINTER+,9300,1,,,Richard,Hardin,,"Richard hardin the hardin house 225 hawthorne st memphis Tennessee 38112",5033672364,US,38112,,YesYes,StripeWebsite,10/16/2014
+
+,Kathlyn,Dragna,kathlyn@dragnaphoto.com,,,BASIC,6300,1,,,Kathlyn,Dragna,,"505 W. Fifth St.
+Brenham TX 77833",(979) 830-3952,US,77833,,YesYes,LeaseStation,10/16/2015
+
+,Justin,White,thebeatblender@gmail.com,,,PRINTER+ NO DS40,7275,1,,,Justin,White,,"Justin White
+13550 triadelphia mill rd
+Clarksville MD 21029",,US,21029,,NoNo,StripeFreshbooks,10/18/2014
+
+,Emily,Sudbrink,esudbrink@gmail.com,,,PRINTER+,10544,1,,,Emily,Sudbrink,,"8060 Morro Rd
+Atascadero CA 93422",(805) 440-6996,US,93422,,YesYes,StripeFreshbooks,10/19/2015
+
+,Trevor,Black,trevor@trevorblack.com,,,PRINTER,7200,1,,,Trevor,Black,,"1344 Rolph Terrace
+Milton Ontario L9T7E1
+Canada",(905) 6369258,CA,L9T7E1,,YesYes,Paypal eCheck,10/2/2013
+
+,Julian,Moniz,julian@julianmoniz.com,,,PRINTER,3987.5,1,,,Julian,Moniz,,"caught in the act | event photobooth
+76 isherwood cres
+woodbridge
+Ontario
+L4H 3N9
+Canada",416-835-9950,CA,L4H 3N9,,YesNo,StripeWebsite,10/21/2014
+
+,Charles,Lat,charles.lat@gmail.com,,,PRINTER,8000,1,,,Charles,Lat,,"91-1077 Papaa street
+Kapolei Hawaii 96707",8084543113,US,96707,,YesYes,StripeWebsite,10/21/2015
+
+,Elizabeth,Rodriguez,elizabeth@alrodstudio.com,,,PRINTER,NA,1,,,Elizabeth,Rodriguez,,"8920 ne 8 ave #1005 Miami Fl 33138",305-531-8278,US,33138,,YesYes,NA,10/21/2015
+
+,Alberto,Rodriguez,al@alrodstudio.com,,,PRINTER+,16500,2,,,Alberto,Rodriguez,,"8920 ne 8 ave #1005
+Miami Fl 33138",305-531-8278,US,33138,,YesYes,StripeFreshbooks,10/21/2015
+
+,Jason,Seraty,js@pixmob.com,,,BASIC,7275,1,,,Jason,Seraty,PixMob,"103 Rue de Louvain Ouest
+MontrÃ©al QC H2N 1A3 Canada",1-514-510-5777 ext. 223,CA,H2N 1A3,,YesYes,StripeFreshbooks,10/22/2015
+
+,Johns,Cuellar,mhawks-cuellar@jhu.edu,,,PRINTER+,11130,1,,,Johns,Cuellar,Hopkins Bloomberg School of Public Health,"615 N. Wolfe Street
+Baltimore MD 21205",410 502 0694,US,21205,,YesYes,Purchase Order - Net60,10/23/2015
+
+,Jonnell,Gailey,jonnell@glowbridal.com,,,PRINTER,9356,1,,,Jonnell,Gailey,,"10 Black Oak
+Irvine California 92604",805-550-7363,US,92604,,YesYes,Stripe- Website,10/23/2015
+
+,Benjamin,Hartley,"
+youarebeautiful@benandles.com",,,PRINTER+,8300,1,,,Benjamin,Hartley,,"5385 York County Rd
+Columbus OH 43221",(419) 271-1306,US,43221,,YesYes,Paypal for both,10/24/2013
+
+,Matthew,Wilson,info@mswphotos.com,,,PRINTER,8200,1,,,Matthew,Wilson,,"1708 Jadens Way
+Washington IL 61571",(309) 300-0852,US,61571,,YesYes,StripeFreshbooks,10/26/2015
+
+,Darling,Paumen,darlingphotographers@gmail.com,,,PRINTER+,8800,1,,,Darling,Paumen,,"3792 louise ave
+chantilly VA 20151",(703) 673-8960,US,20151,,YesYes,LeaseStation,10/27/2015
+
+,Jon,Fleming,jonflemingphotography@gmail.com,,,PRINTER+,8800,1,,,Jon,Fleming,,"25491 Cancello Terrace
+Chantilly VA 20152",703 209 0175,US,20152,,YesYes,Stripe - Leasestation,10/27/2015
+
+,Cheryl,Martin,cheryl.martin@bgscorp.ca,,,PRINTER,7200,1,,,Cheryl,Martin,,"78 Silver Sage Crescent Winnipeg Manitoba R3X 0K3",(204) 9902257,CA,R3X 0K3,,YesYes,Groupon over phone - 2 Payments of $3600,10/3/2013
+
+,Gerald,LeVora,epicentertainmentservicesllc@gmail.com,,,PRINTER,8470,1,,,Gerald,LeVora,,"122 west orange
+apt 4
+CARLINVILLE IL 62626",217-565-3110,US,62626,,YesYes,Bank Transfer,10/3/2014
+
+,Jordan,Oorebeek,calsieoorebeek@gmail.com,,,PRINTER,8200,1,,,Jordan,Oorebeek,,"Jordan Oorebeek 1755 Grant Avenue # 3896544 Blaine Washington 98230",6047890445,CA,V3H 4N2,,YesYes,"StripeWebsite | StripeFreshbooks",10/30/2014
+
+,Yma,Nabong,ymabalos13@gmail.com,,,PRINTER+,8800,1,,,Yma,Nabong,,"Yma Nabong
+5 Millbrae Circle
+Millbrae California 94030",6502229970,US,94030,,YesYes,StripeWebsite,10/30/2014
+
+,Greg,Bethmann,Greg@kirstenlewisphoto.com,,,PRINTER+,,1,,,Greg,Bethmann,,"2946 Champa Street
+Denver CO 80205",,US,80205,,YesYes,StripeFreshbooks,10/30/2015
+
+,Jessica,Lavoie,jessica@jessicalavoie.com,,,PRINTER+,7700,1,,,Jessica,Lavoie,,"16 Park Ave. #5B New York NY 10016",(646) 4183220,US,10016,,NoYes,Stripe - Jotform,10/31/2013
+
+,Jessica,Indelicato,jess.indelicato@gmail.com,,,PRINTER,8200,1,,,Jessica,Indelicato,,"Billy Hamill
+TP&G
+509 Forest Avenue
+staten island New York 10310",9173537257,US,10310,,YesYes,"Paypal | StripeFreshbooks",10/4/2014
+
+,Lee,Shulman,lee.shulman@me.com,,,PRINTER+ NO DS40,8000,1,,,Lee,Shulman,,"Lee Shulman
+103 Lilac Dr
+Carrboro NC 27510",415-612-0216 / 919-584-5810,US,27510,,YesYes,StripeFreshbooks,10/4/2014
+
+,Danielle,Carlucci,ddgracie@gmail.com,,,PRINTER+,8800,1,,,Danielle,Carlucci,,"2102 W5th street
+apt 1
+Brooklyn New York 11223",9177674999,US,11223,,YesYes,StripeWebsite,10/5/2014
+
+,Joshua,Frith,studiomanager@joshuadwain.com,,,PRINTER,7700,1,,,Joshua,Frith,,"Joshua Dwain Photography 59 Paerdegat 4th Street
+2nd Floor
+Brooklyn New York 11236",7189266502,US,11236,,YesYes,StripeWebsite,10/5/2014
+
+,Chelsey,Hayes,chelsey@chelseyboatwright.com,,,PRINTER+,9300,1,,,Chelsey,Hayes,,"8868 SW 8th Street
+Boca Raton FL 33433",(954) 242-9070,US,33433,,YesYes,StripeFreshbooks,10/5/2015
+
+,Johnny,Garza,johnnygarza21@gmail.com,,,PRINTER+,10694,1,,,Johnny,Garza,,"8509 Dominion Court Corpus Christi Tx 78414",361.779.7394,US,78414,,YesYes,StripeFreshbooks,10/5/2015
+
+,Katie,McCarthy,katie@kmsphotos.com,,,PRINTER+,10044,1,,,Katie,McCarthy,,"113 42nd Ave
+SAn Mateo California 94403",650-255-1750,US,94403,,YesYes,StripeWebsite,10/5/2015
+
+,Russell,Sitjar,russellartphotography@gmail.com,,,BASIC,7400,1,,,Russell,Sitjar,,"89 Darling Avenue
+Bloomfield NJ 07003",516 972 9641,US,7003,,YesYes,StripeFreshbooks,10/5/2015
+
+,Scott,Roeder,scottnroeder@gmail.com,,,BASIC,1810400",3,,,Scott,Roeder,,"2800 Bridge parkway
+suite 101
+Redwood city California 94065",5103934617,US,94065,,YesYes,Stripe -Fresbooks,10/5/2015
+
+,Tessa,Swarthout,hello@tessamarie.com,,,PRINTER,7375,1,,,Tessa,Swarthout,,"815 Creekgarden Ct
+Atlanta Georgia 30339",4045903656,US,30339,,NoNo,"StripeWebsite | StripeFreshbooks",10/6/2014
+
+,Patrick,Evans,evanspartyplanners@gmail.com,,,PRINTER,8200,1,,,Patrick,Evans,,"Evans Consulting Inc
+909 pinewood ave
+Lakeland FL 33815 ",(863) 438-1224,US,3815,,YesYes,LeaseStation,10/6/2015
+
+,Brian,Marcus,brianmarcus@fredmarcus.com,,,PRINTER+,8800,1,,,Brian,Marcus,,"BRIAN MARCUS
+Fred Marcus studio
+245 W.72nd St
+NEW YORK New York 10023",516-658-0001,US,10021,,YesYes,StripeWebsite,10/7/2014
+
+,Melissa,Minneci,melissa.Minneci@ngc.com,,,PRINTER,8200,1,,,Melissa,Minneci,Northrup Grumman,"Northrop Grumman
+Steve Gordon 
+2477 Manhattan Beach Blvd
+PO# 4300025485
+PO #: 375110
+Redondo Beach
+California 90278",,US,90278,,YesYes,StripeFreshbooks,10/7/2015
+
+,Craig,Vollmer,cvollmer1@gmail.com,,,PRINTER,8700,1,,,Craig,Vollmer,,"806 Madera Ct.
+Fort Collins Colorado 80524",970-301-5137,US,80524,,YesYes,StripeWebsite,10/8/2015
+
+,Jonathan,Hon,info@thehonsphoto.com,,,PRINTER+,8700,1,,,Jonathan,Hon,,"153 Variety Tree Circle
+Altamonte Springs FL 32714",(407) 810-7343,US,32714,,NoYes,LeaseStation,10/8/2015
+
+,Ruth,Benavides,benavidesjr@comcast.net,,,PRINTER+,8300,1,,,Ruth,Benavides,,"18449 Spanish isles court
+Boca raton Florida 33496",5614146279,US,33496,,YesYes,StripeFreshbooks,10/8/2015
+
+,Joseph,Lee,joe@expeditionary.us,,,BASIC,6900,1,,,Joseph,Lee,Expeditionary Communicatos,"1200 N veitch st
+1014
+arlington Virginia 22201",8084997667,US,22201,,YesYes,StripeWebsite,10/9/2015
+
+,Janine,Cooper,jmstudiosdundee@gmail.com,,,PRINTER,6375,1,,,Janine,Cooper,,"5013 Underwood Ave #A
+ Omaha NE 68132",(402) 9917277,US,68132,,NoNo,Stripe - Jotform,11/12/2013
+
+,Anna,Nguyen,anna@zeeanna.com,,,PRINTER+,9300,1,,,Anna,Nguyen,,"229 Sabal Lake Dr
+Naples FL 34104",(239) 877-7939,US,34104,,YesYes,Lease Station - Bank Transfer,11/13/2014
+
+,Joshua,Law,josh@chicagomoversandshakers.com,,,PRINTER+,9300,1,,,Joshua,Law,,"Joshua Law
+Chicago Movers and Shakers
+1023 S. Claremont
+Chicago Illinois 60612",3124512430,US,60612,,YesYes,StripeWebsite,11/16/2014
+
+,Amy,Chabot,amy.chabot@gmail.com,,,PRINTER,8200,1,,,Amy,Chabot,,"Amy Chabot
+Transgroup International
+140 Eastern Ave Fl 2 Chelsea Massachusetts 02150",512-804-9463,US,2150,,YesYes,StripeFreshbooks,11/18/2014
+
+,Tarquin,Schahinger,tarquin@jackrabbitsigns.com.au,,,BASIC,6300,1,,,Tarquin,Schahinger,,"
+Adam Franklin
+728 E Olive Ave
+APT E
+Burbank California 91501",61401594320,US,91501,,NoYes,StripeWebsite,11/18/2014
+
+,Vincent,Hogan,vincent@thelxa.com,,,PRINTER+,8475,1,,,Vincent,Hogan,,"2618 Flamingo Ln
+Fort Lauderdale FL 33312",(954) 615-8824,US,33312,,NoNo,Lease Station - Bank Transfer,11/18/2014
+
+,Greg,Moss,greg@gregmossphotography.com,,,BASIC,6675,1,,,Greg,Moss,,"Greg Moss
+Greg Moss Photography
+27 shaw street
+Belchertown Massachusetts 01007",413-274-7347,US,1007,,YesNo,StripeWebsite,11/21/2014
+
+,Anthony,Hoang,mail@anthonyhoang.com.au,,,BASIC,630000",1,,,Anthony,Hoang,,"78 Tinaroo Street
+DURACK QLD 4077
+Australia",(+61) 413836491,Australia,,,NoYes,StripeFreshbooks,11/22/2015
+
+,Ben,Koller,ben@benandkellyphotography.com,,,PRINTER+,9300,1,,,Ben,Koller,,"Benjamin Koller
+Ben & Kelly Photography
+7220 W Sandra Terrace
+peoria Arizona 85382",602-909-3618,US,85382,,YesYes,StripeWebsite,11/25/2014
+
+,Candice,Wood,hello@candicewood.com,,,PRINTER,6600,1,,,Candice,Wood,,"408 Foxglove Ln Indian Trail NC 28079",(704) 9427877,US,28079,,NoYes,Stripe - Jotform,11/26/2013
+
+,Kelsey,Tolsma,ktolsma11@gmail.com,,,PRINTER,7200,1,,,Kelsey,Tolsma,,"1121 Garden Drive
+Lynden WA 98264",360-441-8084,US,98264,,YesYes,Paypal eCheck,11/26/2013
+
+,Tricia,McCormack,tricia@triciamccormack.com,,,PRINTER+,9300,1,,,Tricia,McCormack,,"27 Tucker St
+Lenox Massachusetts 01240",41335888006,US,1240,,YesYes,StripeWebsite,11/30/2014
+
+,Leo,Timoshuk,info@leotim.com,,,BASIC,4775,1,,,Leo,Timoshuk,,"15 Kenmont Drive Camillus New York 13031",(315) 3836485,US,13031,,NoNo,Stripe - Jotform,11/7/2013
+
+,Mary,Veterano,"
+mary@maryandroy.com",,,PRINTER,7200,1,,,Mary,Veterano,,"12 Crossings Court Mount Laurel NJ 08054","
+(609) 313-1056",US,8054,,YesYes,Stripe - Jotform,11/7/2013
+
+,Brennan,Stanford,brennan@premierpour.com,,,PRINTER,6600,1,,,Brennan,Stanford,,"303 Conant St. #3 Maumee OH 43537",(419) 4507290,US,43537,,NoYes,Stripe - Jotform,11/8/2013
+
+,Jeffrey,Fitt,jeffreyfitt@gmail.com,,,PRINTER+,15600,2,,,Jeffrey,Fitt,,"2900 NW 112th Avenue Doral Florida 33172",(868) 6878010,US,33172,,YesYes,Stripe - Jotform,11/8/2013
+
+,Lauren,Scott,lscokie@yahoo.com,,,PRINTER,6600,1,,,Lauren,Scott,,"3238 Robert Clifton Weaver Way NE Washington DC 20018",(515) 554-7991,US,20018,,NoYes,Stripe - Jotform,11/9/2013
+
+,Michael,Yeh,michaelctyeh@hotmail.com,,,BASIC,6300,1,,,Michael,Yeh,,"ANITA WONG
+1001 N MAIN ST #11
+RANDOLPH Massachusetts 02368",818035537332,US,2368,,NoYes,StripeWebsite,11/9/2014
+
+,Valentina,Petry,valentina.petry@wintersbrosct.com,,,PRINTER+,8300,1,,,Valentina,Petry,,"10 Stillwater Road St James NY 11780",(516) 790 5730,US,11780,,YesYes,Stripe - Jotform,12/10/2013
+
+,Ashley,Steeby,asteeby@gmail.com,,,BASIC,5300,1,,,Ashley,Steeby,,"601 S. Ponce de Leon Blvd
+Street Address Line 2: E
+St. Augustine Florida 32084",(904) 5400878,US,32084,,NoYes,Stripe - Jotform,12/11/2013
+
+,Lindsey,Rider,lindsey@ryderphoto.ca,,,PRINTER,7200,1,,,Lindsey,Rider,,"135 Mill St. N. Waterdown ON L0R 2H0 Canada",(905) 6907697,CA,L0R 2H0,,YesYes,Stripe - Jotform,12/11/2013
+
+,Brent,Pattberg,wefixpets@gmail.com,,,BASIC,6900,1,,,Brent,Pattberg,,"The County Seat Animal Hospital LLC 145 West Center Street Hernando Mississippi 38632",662-429-DOGS,US,38632,,YesYes,Paypal,12/12/2014
+
+,Chris,Hillert,chris@hillertassoc.com,,,PRINTER+,5600,1,,,Chris,Hillert,,"30 Intermodal Drive Unit 30
+Brampton Ontario
+L6T 5K1",905.792.8511,CA,L6T 5K1,,YesYes,Credit Card on Phone,12/16/2013
+
+,Mo,Govindji,mo@mangostudios.com,,,PRINTER+ No DS40,"14,400",2,,,Mo,Govindji,,"MANGO STUDIOS
+9 Davies Ave Unit #203
+Toronto ON
+M4M 2A6",1-416-890-9498,CA,M4M 2A6,,YesYes,StripeFreshbooks,12/16/2014
+
+,Ashley,Gross,ashleygerrityphotography@gmail.com,,,BASIC,6400,1,,,Ashley,Gross,,"Ashley Gross
+Ashley Gerrity Photography
+1639 Poplar St
+Unit 2N
+Philadelphia Pennsylvania 19130",7174967043,US,19130,,YesYes,Paypal - Website,12/19/2014
+
+,Chris,Stewart,chris@truenorthphotobooth.ca,,,PRINTER+,9300,1,,,Chris,Stewart,,"Chris Stewart
+True North Photobooth Company
+2B Hood Crescent
+Yarmouth
+Nova Scotia
+B5A 4H6
+Canada",7783637442,CA,B5A 4H6,,YesYes,StripeWebsite,12/2/2014
+
+,Manuel,Cuason,mcuason@live.com,,,PRINTER,8200,1,,,Manuel,Cuason,,"Manuel Cuason
+picshot.com
+34436 Gove Terrace
+Fremont California 94555",510-861-1137,US,94555,,YesYes,StripeWebsite,12/24/2014
+
+,Mike,Gibson,beyondthedarkroom@gmail.com,,,PRINTER+,8700,1,,,Mike,Gibson,,"Mike Gibson
+beyond the darkroom
+1024 E 490 N
+American Fork Utah 84003",801-851-0159,US,84003,,NoYes,Paypal - Website,12/24/2014
+
+,Kevin,Milz,kevin@kevinmilz.com,,,x,5000,1,,,Kevin,Milz,,"4 Pegram Ct
+Durham NC 27703","
+919-271-2167",US,27703,,NoNo,Stripe - Jotform,12/26/2013
+
+,Robert,Steed,robvansteed@me.com,,,PRINTER,6600,1,,,Robert,Steed,,"231-7 Street NE Calgary Alberta T2E 4C1 Canada",(403) 828.8465,CA,T2E 4C1,,NoYes,Stripe - Jotform,12/28/2013
+
+,Alan,Duro,alanduro@gmail.com,,,PRINTER+,930000",1,,,Alan,Duro,,"Alan Duro
+12 Sparhawk St
+Apt 1
+Brighton MA 02135",617.291.4906,US,2135,,YesYes,StripeWebsite,12/3/2014
+
+,James,Morrison,morrisondv@mac.com,,,PRINTER+,9390,1,,,James,Morrison,,"James Morrison
+6625 Eucalyptus Ave.
+Chino Ca 91710",909-319-1105,US,91710,,YesYes,Cash (12/3/14),12/3/2014
+
+,Joseph,Taravella,joe@secondlinefilms.com,,,BASIC,6075,1,,,Joseph,Taravella,,"Studio Vieux Carre
+810 Union St.
+Suite 303
+New Orleans Louisiana 70112",5044524075,US,70112,,NoNo,"StripeWebsite | StripeFreshbooks",12/3/2014
+
+,Steve,Ransom,steve@nightmusicdj.com,,,PRINTER,8200,1,,,Steve,Ransom,,"3840 Lacon Rd. Ste. 8
+Hilliard OH
+43026
+United States",614-529-6777,US,43026,,YesYes,Paypal,12/3/2014
+
+,Christine,Chytraus,megan@maceventsonline.com,,,PRINTER,7200,1,,,Christine,Chytraus,,"4473 South New Vintage Court Salt Lake City Utah 84124",(801) 875-0141,US,84124,,YesYes,Stripe - Jotform,12/30/2013
+
+,Sharyl,Ross,relproductions@gmail.com,,,PRINTER+,8800,1,,,Sharyl,Ross,,"Sharyl Ross
+8707 n skokie blvd
+suite 400
+skokie Illinois 60077",773-729-0387,US,60077,,YesYes,StripeWebsite,12/31/2014
+
+,Carey,Carter,capturethisdesign@gmail.com,,,BASIC,5900,1,,,Carey,Carter,,"5 / 64 Cross Street Footscray Melbourne Victoria 3011 Australia",(0061) 402683063,Australia,3011,,YesNo,Stripe - Jotform,12/6/2013
+
+,Roman,Guillen,romananthony88@gmail.com,,,PRINTER+,1650000",2,,,Roman,Guillen,,"24975 via portola laguna niguel ca 92677",9495472736,US,92677,,NoYes,,12/7/2014
+
+,Liza,Stasinopoulou,ls@dojomarketing.gr,,,BASIC,7100,1,,,Liza,Stasinopoulou,,"THESSALONIKIS 43 ATHENS GREECE 15234 HALANDRI",30 6948981883,Greece,,,NoYes,Bank Transfer,12/8/2014
+
+,Jenny,Kirtland,jennykirtland@mac.com,,,BASIC,6900,1,,,Jenny,Kirtland,,"5432 Falls Rd
+Dallas Texas 75220",214-668-7685,US,75220,,YesYes,StripeWebsite,12/9/2014
+
+,Katherine,MacDonnell,"
+katie@roundpond.com",,,PRINTER+,8000,1,,,Katherine,MacDonnell,,"877 Rutherford Road Rutherford CA 94573",(559) 287-2238,US,94573,,YesYes,Stripe - Jotform,2/1/2014
+
+,Charles,Deibel,deibelca@gmail.com / info@lightboothphoto.com,,,PRINTER,7200,1,,,Charles,Deibel,,"387 Corona Street Ste 518 Denver CO 80218",(303) 6199532,US,80218,,YesYes,Stripe - Custom Jotform,2/10/2014
+
+,Thomas,See,tsee50@gmail.com,,,PRINTER,8200,1,,,Thomas,See,,"4366 Faussett Rd
+Howell MI 48855",(440) 364-3891,US,48855,,YesYes,Bank Transfer,2/10/2015
+
+,Carlos,Lerma,carloslerma@me.com,,,PRINTER,6600,1,,,Carlos,Lerma,,"319 Wexford St. Carencro LA 70520",(337) 296-1543,US,70520,,NoYes,"Paypal - $1000 from Carlos $2300 from Ashley Berry",2/11/2014
+
+,Olumide,Akintorin,info@olujr.com,,,PRINTER+,4650,1,,,Olumide,Akintorin,,"645 Naoma Drive.
+Crete iL 60417",3129333682,US,60417,,YesYes,Paypal,2/11/2015
+
+,Katherine,Chick,katherine@11thdoor.com,,,PRINTER+,9300,1,,,Katherine,Chick,,"11th Door Photography 5931 S High Ct
+Centennial CO 80121",(303) 482-1126,US,80121,,YesYes,Bank Transfer,2/12/2015
+
+,Alex,Maldonado,alexmaldonado1892@gmail.com,,,PRINTER+,9300,1,,,Alex,Maldonado,,"1419 Lincoln St Laredo TX 78040",956 7911425,US,78040,,YesYes,Paypal,2/13/2015
+
+,Beth,Headley,estesparkphotobooth@gmail.com,,,PRINTER,8200,1,,,Beth,Headley,,"Estes park Photo Booth
+P.O. Box 4151
+Estes Park Colorado 80517 / Beth Headley
+212 Waltonia River Court
+Drake CO 80515",8052521383,US,80515,,YesYes,StripeFreshbooks,2/13/2015
+
+,Christi,Thompson,christichloethompson@gmail.com,,,PRINTER+ No DS40,5675,1,,,Christi,Thompson,,"1909 SW Hunters Club Way
+Palm city FL 34990",561.301.1637,US,34990,,NoNo,StripeWebsite,2/13/2015
+
+,Brent,Pattberg,wefixpets@gmail.com,,,PRINTER+ Upgrade,1100,1,,,Brent,Pattberg,,"The County Seat Animal Hospital LLC
+145 West Center Street
+Hernando Mississippi 38632",662-429-DOGS,US,38632,,,StripeFreshbooks,2/14/2015
+
+,JP,Elario,jp@elariophotography.com,,,PRINTER+,6800,1,,,JP,Elario,,"1084 Madison Ave Albany NY 12208",(518) 438-0989,US,12208,,YesYes,Stripe - Jotform - Custom,2/17/2014
+
+,Ylva,Bacaltos,yjborg@yahoo.com,,,PRINTER+,8300,1,,,Ylva,Bacaltos,,"
+116 D ST NW Quincy WA 98848",(509) 350-9996,US,98848,,YesYes,Stripe - Jotform,2/17/2014
+
+,Alexander,Ulyanov,sasha@purpletree.ca,,,PRINTER+,8700,1,,,Alexander,Ulyanov,,"Purple Tree Photography Inc 201-207 Queen Streer East Toronto Ontario M5A 1S2",416 457 5370,CA,M5A 1S2,,NoYes,StripeFreshbooks,2/18/2015
+
+,Brooks,Lockwood,brookslockwood@mac.com,,,PRINTER+,9300,1,,,Brooks,Lockwood,,"624 W 139th St Apt 5c
+New York NY 10031",(417) 689-3646,US,10031,,YesYes,Bank Transfer,2/18/2015
+
+,James,York,jyork@silencerco.com,,,PRINTER+,4650,1,,,James,York,,"Michael shumway
+silencerco
+5511 s. 6055 w
+west valley city Utah 84118",8018336590,US,84118,,YesYes,"StripeWebsite | StripeFreshbooks",2/18/2015
+
+,Andrew,Heard,aheard@pabst.com,,,PRINTER+,8300,1,,,Andrew,Heard,,"
+3450 Lafayette St. Denver CO 80205",(612) 799-2721,US,80205,,YesYes,Stripe - Jotform - Custom,2/19/2014
+
+,Ajit,Singh,asingh@asinghphotography.com,,,PRINTER,6600,1,,,Ajit,Singh,,"36 Knoll Lane Glen Head NY 11545",(516) 728-2620,US,11545,,NoYes,Stripe - Jotform,2/20/2014
+
+,Jeanelle,Reiter,jeanellereiter@yahoo.com,,,PRINTER,7200,1,,,Jeanelle,Reiter,,"267 Stockwell Street Castle Rock CO 80104",(303) 8989070,US,80104,,YesYes,Paypal,2/22/2014
+
+,Doug,Gannon,premierphotoboothsinc@gmail.com,,,PRINTER+,9300,1,,,Doug,Gannon,,"45 Hopewell Drive
+Stony Brook NY 11790",(516) 965-9635,US,11790,,YesYes,Bank Transfer,2/23/2015
+
+,Laura,McCallum,laura.mccallum@live.ca,,,PRINTER+,9300,1,,,Laura,McCallum,,"Flash and Frame
+10819 8 Ave SW
+Edmonton
+Alberta
+T6W 1G2
+Canada",2502632763,CA,T6W 1G2,,YesYes,StripeWebsite,2/23/2015
+
+,Marcus,Carter,bookings@hyedemandchicago.com,,,BASIC,6900,1,,,Marcus,Carter,,"900 South Clark
+Chicago IL 60605",(708) 603-5795,US,60605,,YesYes,"Bank Transfer | StripeFreshbooks",2/23/2015
+
+,Lindsey,Flanagan,contact@lindseykay.com,,,PRINTER,6600,1,,,Lindsey,Flanagan,,"23 Meadowview Terrace New Bremen Ohio 45869",(419) 953-4698,US,45869,,NoYes,Stripe - Jotform,2/24/2014
+
+,Seth,Tibbott,seth@tofurky.com,,,PRINTER,7200,1,,,Seth,Tibbott,,"POB 176 400 Portway Avenue Hood River OR 97031",(541) 386-7766,US,97031,,YesYes,Stripe - Jotform,2/24/2014
+
+,Joe,Rumore,joe@turnloosetheart.com,,,PRINTER+,$0,1,,,Joe,Rumore,,"16617 NW Avondale Dr Beaverton OR 97006",503-828-0848,US,97006,,YesYes,Free,2/25/2015
+
+,David,Lau,davidnlau1@gmail.com,,,PRINTER+,9300,1,,,David,Lau,,"85-12 217th street
+queens village New York 11427",6465124792,US,11427,,YesYes,StripeWebsite,2/26/2015
+
+,Bryan,Koop,bryan@bryanjonathanweddings.com,,,BASIC,5300,1,,,Bryan,Koop,,"1928 Washburn Ave N Minneapolis MN 55411",(612) 4600010,US,55411,,NoYes,Stripe - Jotform,2/27/2014
+
+,Michael,McManus,michael@m2-photography.net,,,PRINTER,6600,1,,,Michael,McManus,,"4306 Gyspy Ln Collegeville PA - Pennsylvania 19426",(856) 2646747,US,19426,,NoYes,Stripe - Jotform,2/27/2014
+
+,Geoffrey,Goudeau,erinandgeoffrey@gmail.com,,,PRINTER,8200,1,,,Geoffrey,Goudeau,,"201 Settlers Trace Blvd 4104
+Lafayette LA 70508",(337) 852-6150,US,70508,,YesYes,Bank Transfer,2/3/2015
+
+,Adam,Blazer,ablazer@livitnow.com,,,BASIC,6900,1,,,Adam,Blazer,,"621 N Poinsettia Pl
+Los Angeles CA 90036",(818) 384-1188,US,90036,,YesYes,Bank Transfer,2/4/2015
+
+,Isaac,Bitar,info@radiuscp.com,,,BASIC,6900,1,,,Isaac,Bitar,,"Radius Creative Productions
+2257 Indus Way
+San Marcos California 92078",6197966084,US,92078,,YesYes,"StripeWebsite | StripeFreshbooks",2/4/2015
+
+,Jennifer,Kuklinski,heyjenk@gmail.com,,,PRINTER+,9300,1,,,Jennifer,Kuklinski,,"5108 Buchanan Lane
+Pasco WA 99301",(206) 972-3163,US,99301,,YesYes,Bank Transfer,2/4/2015
+
+,Kiet,Hoang,kiet2hoang@gmail.com,,,BASIC,6900,1,,,Kiet,Hoang,,"5017 Hearst Street
+Metairie LA 70001
+United States",(504) 473-9410,US,70001,,YesYes,Paypal,2/4/2015
+
+,Karla,Ayala-Quervalu,karlasamanthaphotography@gmail.com,,,PRINTER,8200,1,,,Karla,Ayala-Quervalu,,"Karla Samantha Photography
+2462 E. 23rd Street
+Apt 1
+Brooklyn New York 11235",646-294-6786,US,11235,,YesYes,"StripeWebsite | StripeFreshbooks",2/5/2015
+
+,Stephanie,Scherer,stephanie.a.scherer@gmail.com,,,PRINTER,7600,1,,,Stephanie,Scherer,,"365 Rochester Rd
+Zelienople PA 16063",(724) 272-1830,US,16063,,NoYes,"StripeFreshbooks | Bank Transfer",2/5/2015
+
+,George,Kash,isaacimage@gmail.com,,,PRINTER+,9300,1,,,George,Kash,,"George Kash IsaacImage 75 North Park Rd unit #403 Thornhill Ontario L4J- 0H8",416.500.2682,US,8520,,YesYes,StripeWebsite,2/6/2015
+
+,Ryan,Hundley,theburlapbooth@hotmail.com,,,BASIC,6900,1,,,Ryan,Hundley,,"The Burlap Booth 403 Plantation Ln
+Smithfield VA 23430",757-846-8908,US,23430,,YesYes,Bank Transfer,2/6/2015
+
+,Jashim,Jalal,jashimj@gmail.com,,,BASIC,5300,1,,,Jashim,Jalal,,"8773 172 St 1FL Jamaica NY 11432",(347) 419-5494,US,11432,,NoYes,Stripe - Jotform,2/7/2014
+
+,Jenn,Ayres,ayresphoto@gmail.com,,,PRINTER+,8300,1,,,Jenn,Ayres,,"
+66 Woodview Ave Hamburg New York 14075",(716) 812-0647,US,14075,,YesYes,Stripe - Jotform,2/7/2014
+
+,John,Acheson,acheson419@gmail.com,,,BASIC,6900,1,,,John,Acheson,,"John Acheson
+4952 n ridgeway ave
+apt 2
+chicago Illinois 60625",2187216604,US,60625,,YesYes,StripeWebsite,2/7/2015
+
+,Anthony,Hoang,mail@anthonyhoang.com.au,,,PRINTER+ Upgrade,1100,1,,,Anthony,Hoang,,"78 Tinaroo Street
+DURACK QLD 4077
+Australia",(+61) 413836491,Australia,,,,StripeFreshbooks,2/8/2015
+
+,Rebecca,Vanech,ravanech@gmail.com,,,PRINTER,8200,1,,,Rebecca,Vanech,,"Rebecca Vanech
+64 Glenrock
+Norwalk Connecticut 06850",203-536-0520,US,6850,,YesYes,StripeWebsite,2/9/2015
+
+,Derrick,Rice,derrick@unioneleven.com,,,BASIC,5500,1,,,Derrick,Rice,,"134 Dahlia Cresent
+Ottawa Ontario Canada K1H6G2",613-799-2958,US,1H6G2,,YesYes,Paypal,3/1/2013
+
+,Marisa,Barnard,marisa.l.barnard@gmail.com,,,PRINTER,7200,1,,,Marisa,Barnard,,"215 Village Ln Brighton New York 14610",(518) 4416142,US,4610,,YesYes,Stripe- Jotform,3/1/2014
+
+,Catherine,Taylor,catherine@woodlandfieldsphotography.com,,,BASIC,5300,1,,,Catherine,Taylor,,"Catherine Taylor
+Woodland Fields Photography
+3101 Mist Flower Rd
+Tallahassee Florida 32311",8505591095,US,32311,,NoYes,StripeWebsite,3/10/2014
+
+,Johnny,De Los Santos,photographydelossantos@gmail.com,,,BASIC,5275,1,,,Johnny,De Los Santos,,"LG-126 Urb. La Antigua Trujillo Alto Puerto Rico 00976 Puerto Rico",(939) 6402333,Puerto Rico,,,NoNo,Stripe - Custom Jotform,3/10/2014
+
+,Bill,Walker,Bill.Walker@wildroseresorts.com,,,PRINTER+,8800,1,,,Bill,Walker,,"777 Main Street Emmetsburg Iowa 50536",7122982223,US,50536,,YesYes,Check,3/10/2015
+
+,John,Tanico,john@neekostudios.com,,,PRINTER+,9300,1,,,John,Tanico,,"15941 96th St
+Howard Beach NY 11414 ",(718) 664-8671,US,11414,,YesYes,LeaseStation,3/10/2015
+
+,Jon,Tartaglia,sashatartaglia@gmail.com,,,PRINTER,7700,1,,,Jon,Tartaglia,,"1114 Broadway
+Tacoma WA 98402",(253) 495-6169,US,98402,,YesYes,StripeFreshbooks,3/10/2015
+
+,Sarah,Goss,sarahgossphotography@gmail.com,,,PRINTER+,8800,1,,,Sarah,Goss,,"sarah goss
+sarah goss photography llc
+6006 medina drive
+midland Texas 79707",540-520-9977,US,79707,,YesYes,Stripe - Jotform,3/10/2015
+
+,Shanna,Cook,scook@marketo.com,,,BASIC,7219,1,,,Shanna,Cook,,"Marketo
+901 Mariners Island Blvd
+Suite #200
+San Mateo California 94404",4087725443,US,94404,,YesYes,StripeWebsite,3/10/2015
+
+,Lauren,Vitiello,lauren.vitiello@gmail.com,,,PRINTER,7200,1,,,Lauren,Vitiello,,"731 Ohio Street Lisle Illinois
+60532",(630) 6960423,US,60532,,YesYes,Stripe - Custom Jotform,3/11/2014
+
+,Marta,Zukowski,grimm_sam@yahoo.com,,,PRINTER+,9300,1,,,Marta,Zukowski,,"8000 shore front parkway
+1f
+rockaway beach New York 11693",3478163094,US,11204,,YesYes,Stripe,3/11/2015
+
+,Paula,Brostram,paulab@overhillsmansion.com,,,PRINTER,7700,1,,,Paula,Brostram,,"916 South Rolling Road Catonsville Maryland
+21228",(410) 744-0040,US,21228,,YesYes,StripeFreshbooks,3/11/2015
+
+,Shawn,Faucette,shawnfaucette@gmail.com,,,BASIC,6300,1,,,Shawn,Faucette,,"2905 Ruby Dr
+Apt A
+Fullerton California 92831",714-853-0312,US,92705,,YesYes,StripeFreshbooks,3/11/2015
+
+,Dave,Lane,dlane@mirrorball.com,,,BASIC,1790000",3,,,Dave,Lane,MirrorBall,"Mirrorball
+Attn: Dave Lane
+134 W 25th Street
+7th Floor
+New York NY 10001",516.987.2604,US,10001,,YesYes,Stripe - Custom Jotform,3/13/2014
+
+,Jesse,Eckel,jesse@owlandtreefilms.com,,,PRINTER+,9300,1,,,Jesse,Eckel,,"2529 Forest Park Blvd
+Fort Worth Texas 76110",6822305067,US,76110,,YesYes,Stripe,3/13/2015
+
+,Ivan,Kwan,ivanjkwan@yahoo.com,,,PRINTER+,9000,1,,,Ivan,Kwan,,"1910 W. Palmyra Ave. Unit #103
+Orange CA 92868",909-524-7887,US,92868,,YesYes,Stripe,3/14/2015
+
+,Joseph,Gindi,janetgindi@gmail.com,,,BASIC,6900,1,,,Joseph,Gindi,,"1841 east 4th street
+Brooklyn New York 11223",7183366806,US,11223,,YesYes,StripeWebsite,3/14/2015
+
+,Nudrat,Owens,impressionsbynudrat@gmail.com,,,BASIC,5300,1,,,Nudrat,Owens,,"Nudrat Owens
+Nudrat Owens photography
+8108 anastasia way
+El Dorado hills California 95762",9162764864,US,95762,,NoYes,StripeWebsite,3/16/2014
+
+,Krystle,Akin,krystleakin@gmail.com,,,PRINTER+,9075,1,,,Krystle,Akin,,"5340 Dusty Rd
+Athens TX 75752 ",(903) 880-8873,US,75752,,YesNo,"StripeFreshbooks | LeaseStation",3/16/2015
+
+,Gurminder,Sohal,gurm.sohal@gmail.com,,,BASIC,5900,1,,,Gurminder,Sohal,,"6719 Fleming St
+Vancouver British Columbia V5P3H4
+Canada",(604)-720-2473,CA,V5P3H4,,YesYes,Paypal,3/17/2013
+
+,Louis,Palos,louispalos@mac.com,,,BASIC,4700,1,,,Louis,Palos,,"11471 Pikes Peak Ct.
+Rancho Cucamonga CA 91737",(909) 8216479,US,91737,,NoNo,Paypal,3/17/2013
+
+,Steven,Young,steven@getstak.com,,,PRINTER+,7700,1,,,Steven,Young,,"128 1st Ave
+Apt 2
+New York NY 10009",718-908-6753,US,10009,,YesYes,Monthly Payments in Check of $1000 / $700,3/17/2014
+
+,Brandon,Willis,Brandon.Willis@SYNGENTA.COM,,,BASIC,6900,1,,,Brandon,Willis,,"2280 Hecker Pass Rd.
+Gilroy California 95020",408-847-3514,US,95020,,YesYes,StripeFreshbooks,3/17/2015
+
+,Tauran,Woo,tauran@tauranphotography.com,,,BASIC,5575,1,,,Tauran,Woo,,"9200 Petit Ave.
+North Hills CA 91343",818.636.2117,US,91343,,NoYes,Paypal,3/18/2013
+
+,Courtney,Sargent,courtney@courtneysargent.com,,,PRINTER,7700,1,,,Courtney,Sargent,,"114 W Elm St Phoenix AZ
+85013",(602) 448-7309,US,85013,,YesYes,,3/18/2014
+
+,Gersam,Gonzales,gersamg23@yahoo.com,,,BASIC,5375,1,,,Gersam,Gonzales,J&G Photobooth,"GERSAM GONZALES 1517 E KNICKERBOCKER DR STOCKTON California 95210",(559) 312-7421,US,95210,,NoNo,StripeFreshbooks,3/18/2015
+
+,Leon,Bennett,imagezbylb@yahoo.com,,,PRINTER+,9300,1,,,Leon,Bennett,,"39732 Via Las Palmas
+Murrieta CA 92563",(626) 392-7413,US,92563,,YesYes,LeaseStation,3/18/2015
+
+,Randy,Jackson,randy@randyjacksonphotography.com,,,PRINTER+,9300,1,,,Randy,Jackson,,"8038 Discovery Cir Smartsville CA 95977",(530) 272-2115,US,95977,,YesYes,Lease Station Pre-Funded,3/18/2015
+
+,Timothy,Carson,kcarson2009@hotmail.com,,,PRINTER+,8800,1,,,Timothy,Carson,,"10 south broadway street
+Scottdale Pennsylvania 15683",724-887-7404,US,15683,,YesYes,StripeFreshbooks,3/19/2015
+
+,Jill,Gray,jill@higherfocus.net,,,PRINTER+,8800,1,,,Jill,Gray,,"2541 Pond Road
+Wildwood MO 63040",314-623-1587,US,63040,,YesYes,StripeFreshbooks,3/2/2015
+
+,Sophie,Protat,"
+sophieprotat@wanadoo.fr",,,BASIC,6420,1,,,Sophie,Protat,,"814 Avenue de la Resistance Toulon 83000 France","
+(+33) 623053632",France,83000,,NoYes,balance not paid,3/20/2014
+
+,Tim,Woodruff,tim.woodruff@sorc.com,,,PRINTER,7700,1,,,Tim,Woodruff,,"Tim Woodruff
+Grind Media
+236 Avenida Fabricante
+Ste 201
+San Clemente California 92672",6039690345,US,92672,,YesYes,Local. Drive to house.,3/20/2014
+
+,Jonathan,Robert,jonathan@jonathanrobert.ca,,,BASIC,1290000",2,,,Jonathan,Robert,,"95 Rue Arago Est Quebec QC G1K 3T6",4186703224,CA,G1K 3T6,,NoYes,,3/20/2014
+
+,Alexandra,Roberts,alex@alexandraroberts.com,,,PRINTER,7700,1,,,Alexandra,Roberts,,"220 School St
+Somerville Massachusetts 02145",617-470-9630,US,2145,,YesYes,,3/21/2014
+
+,Catherine,Rhodes,catherinerhodesphoto@gmail.com,,,BASIC,6900,1,,,Catherine,Rhodes,,"4015 Arctic Fox Drvie
+Columbia Missouri 65202",573-645-2222,US,65202,,YesYes,Stripe,3/21/2015
+
+,Lydia,Royce,lydia@lydiaroyce.com,,,PRINTER,8200,1,,,Lydia,Royce,,"1815 E Lindsey St Apt 1
+Norman OK 73071",(405) 757-8222,US,73071,,YesYes,LeaseStation,3/23/2015
+
+,Whitney,Clarke,whitneyc@lolliandpops.com,,,N/A,3000,1,,,Whitney,Clarke,,,,US,,,N/AN/A,StripeWebsite,3/24/2014
+
+,Priyanka,Shah,priyanka9442@gmail.com,,,BASIC,7280,1,,,Priyanka,Shah,,"Priyanka Shah
+Tantra, 119, Guruswamy Nagar, Amaravathy Street Bharathiar University Post
+Coimbatore
+Tamil Nadu
+641046
+India",,India,,,NoYes,Bank Transfer,3/24/2015
+
+,Victoria,Weiss,vickey@vickeyweissphotography.com,,,PRINTER+,1570000",2,,,Victoria,Weiss,,"3100 White pine Way
+StIllwater Minnesota 55082",612-385-8658,US,55082,,YesYes,StripeFreshbooks,3/25/2015
+
+,Kelsey,Goodwin,kelsey@kgoodphoto.com,,,BASIC,5650,1,,,Kelsey,Goodwin,,"2700 Hamilton Road Victoria BC
+V8R 2Y4",778-678-5357,CA,V8R 2Y4,,NoYes,Paypal,3/27/2013
+
+,Isaias,Ortega,juan51481@yahoo.com,,,BASIC,6900,1,,,Isaias,Ortega,,"3425 s. Austin blvd
+Cicero IL 60804",(708) 288-2516,US,60804,,YesYes,Check,3/27/2015
+
+,Rima,Brindamour,rima@rimabrindamour.com,,,PRINTER+,9300,1,,,Rima,Brindamour,,"283 Classon Ave Apt 1B
+Brooklyn NY 11205",(917) 287-5566,US,11205,,YesYes,LeaseStation,3/27/2015
+
+,Jason,Adair,jason@belltowerfilms.tv,,,BASIC,5575,1,,,Jason,Adair,,"Bell Tower Films
+901 W 34th St
+Houston Texas 77018",9365202176,US,77018,,NoNo,StripeWebsite,3/28/2014
+
+,Micah,Dahlberg,info@micahandmegan.com,,,,4675,1,,,Micah,Dahlberg,,"743 W Baseline Rd
+Claremont CA 91711",8185124136,US,91711,,,Paypal,3/29/2013
+
+,Candice,Kaushagen,candice@candicekphotography.com,,,PRINTER+,8200,1,,,Candice,Kaushagen,,"134 Hollywood St
+Miramar Beach Fl 32550",850-974-7907,US,32550,,YesYes,Check,3/29/2014
+
+,Anthony,Brown,anthony_dbrown@yahoo.com,,,PRINTER+,6400,1,,,Anthony,Brown,,"144 Encantado Cyn Rancho Santa Margarita CA 92688",(714) 2353551,US,92688,,NoYes,Stripe - WPPI,3/3/2014
+
+,Emily,Reiter,emily@annadelores.com,,,PRINTER,7700,1,,,Emily,Reiter,,"1021 Scandia Avenue #80 Ventura CA 93004",(805) 285-8718,US,93004,,YesYes,Stripe - Freshbook,3/3/2015
+
+,Frank,Sicari,heidi.benjamin@gmail.com,,,PRINTER,8200,1,,,Frank,Sicari,,"25 Wood St
+Albany NY 12203 ",(518) 272-3959,US,2203,,YesYes,Lease Station Pre-Funded,3/3/2015
+
+,Judith,Hernandez,herrerafamilyphoto@gmail.com,,,PRINTER+,8800,1,,,Judith,Hernandez,,"1035 25th St
+San Diego CA 92102 ",(619) 954-4281,US,2102,,YesYes,LeaseStation,3/3/2015
+
+,Lauren,Rosenau,lauren@laurenrosenauphotography.com,,,PRINTER+,7975,1,,,Lauren,Rosenau,,"1709 Allen st Charlotte Nc 28205 United States",(704) 2811998,US,28205,,NoNo,Stripe - Jotform,3/3/2015
+
+,Madison,Hunter/Felicia Greenwald,iheartmygroom@gmail.com,,,PRINTER+,8800,1,,,Madison,Hunter/Felicia Greenwald,,"457b whitman st. oleta CA 93117","
+(805) 455-6337 ",US,93117,,YesYes,StripeFreshbooks,3/3/2015
+
+,Melissa,Lacouture,m.studios@yahoo.com,,,PRINTER,6875,1,,,Melissa,Lacouture,,"46 Beachmont Ave Cranston RI 02905",401-954-0577,US,2905,,NoNo,StripeFreshbooks,3/3/2015
+
+,Pepper,Nix,me@peppernix.com,,,,$500,1,,,Pepper,Nix,,"11639 Veruca Way
+South Jordan Utah 85095",,US,85095,,,,3/3/2015
+
+,Kathleen,Collins,bestgminmv@yahoo.com,,,PRINTER,7700,1,,,Kathleen,Collins,,"16410 Dike Rd Mount Vernon Washington 98273",3608409477,US,98273,,YesYes,StripeWebsite,3/30/2014
+
+,Tom,Fasanello,tfasanello@davians.com,,,PRINTER+,8800,1,,,Tom,Fasanello,Catering by Davians,"N56 W16300 Silver Spring Dr.
+Menomonee Falls WI 53051",262.781.4578,US,53051,,YesYes,StripeFreshbooks,3/31/2015
+
+,Manmeet,Sandhu,manmeet_sandhu@hotmail.com,,,PRINTER,7200,1,,,Manmeet,Sandhu,,"1517 East 60th Avenue Vancouver BC
+V5P2H4",(604) 7151346,US,5P2H4,,YesYes,Stripe - Jotform,3/4/2014
+
+,Stephanie,Reeder,stephanie.reeder@hotmail.com,,,PRINTER+,8300,1,,,Stephanie,Reeder,,"2971 Norfleet Rd Adams TN 37040",(270) 8162034,US,37040,,YesYes,Stripe - WPPI,3/4/2014
+
+,Tyler,Scholle,tyler@tylerandhannah.com,,,BASIC,5075,1,,,Tyler,Scholle,,"1510 Kitsap Lake Rd NW Bremerton Washington
+98312",(360) 6626252,US,98312,,NoNo,Stripe - WPPI,3/4/2014
+
+,Wesleyann,Knetzer,info@dearwesleyann.com,,,BASIC,5900,1,,,Wesleyann,Knetzer,,"123 Cedar Hammock Lane Panama City Beach FL 32407",(850) 8964504,US,32407,,YesYes,Stripe - WPPI,3/4/2014
+
+,Chris,Seid,chris@seidphotography.com,,,BASIC with PRINTER+ Upgrade,6675,1,,,Chris,Seid,,"933 Afton Road
+San Marino CA 91108",310-308-0300,US,91108,,NoNo,StripeFreshbooks,3/4/2015
+
+,Erica,Baldwin,erica@ericabaldwinphotography.com,,,PRINTER,8200,1,,,Erica,Baldwin,,"108 Ruth Ct
+Folsom CA 95630",(916) 990-8826,US,95630,,YesYes,LeaseStation,3/4/2015
+
+,Erin,Arellano,erin@erinjsaldana.com,,,PRINTER+,7975,1,,,Erin,Arellano,,"18 Palmetto Dr Alhambra CA 91801",(626) 720-4424,US,91801,,NoNo,Stripe - Freshbook,3/4/2015
+
+,Jenny,Smith,jennifererinsmith@gmail.com,,,PRINTER,8800,1,,,Jenny,Smith,,"
+jenny smith
+jenny smith & co.
+13819 saticoy st
+van nuys California 91402",6513082666,US,91402,,Yes,Bank Transfer,3/4/2015
+
+,Jessica,Grant,jessgrant@mac.com,,,,,1,,,Jessica,Grant,,"141 4th St
+Medford MA 02155",,US,2155,,,Stripe - Jotform,3/4/2015
+
+,Jodi,Carr,jodia.carr@hotmail.com,,,PRINTER+,8800,1,,,Jodi,Carr,,"16069 Tahinka Pl NW Prior Lake MN 55372",(612) 2451018,US,55372,,YesYes,LeaseStation,3/4/2015
+
+,Kathryn,Jackson,contact@katiejacksonphotography.com,,,PRINTER+,8800,1,,,Kathryn,Jackson,,"26500 Agoura road suite 102-869 Calabasas CA 91302",(818) 577-0596,US,91302,,YesYes,StripeFreshbooks,3/4/2015
+
+,Mary,Mascarenas,mary@marymascarenas.com,,,PRINTER,7700,1,,,Mary,Mascarenas,,2499 S Colorado Blvd 1110 Denver CO 80222,719-214-2640,US,80222,,YesYes,LeaseStation,3/4/2015
+
+,Michelle,Girard,michellegirard25@gmail.com,,,PRINTER+,8800,1,,,Michelle,Girard,,"1212 Halladay Ave W
+Suffield CT 06078",646-895-0539,US,6078,,YesYes,StripeFreshbooks,3/4/2015
+
+,Mike,Steelman,mike@mikesteelman.com,,,PRINTER+,8800,1,,,Mike,Steelman,,"480 CALLE PRINCIPAL MONTEREY CA 93940",831-320-9478,US,93940,,YesYes,StripeFreshbooks,3/4/2015
+
+,Nicole,Wickens,nicole@greendoorphotography.com,,,PRINTER+,8800,1,,,Nicole,Wickens,,609 N 3rd St W Missoula MT 59802,406.214.7216,US,59802,,YesYes,StripeFreshbooks,3/4/2015
+
+,Rick,Gmitro,rick@agoodflow.com,,,PRINTER+,8800,1,,,Rick,Gmitro,,"3133 Girard ave so #2 Minneapolis MN 55408",(651) 494-2775,US,55408,,YesYes,StripeFreshbooks,3/4/2015
+
+,Shirley,Borba,shirleygborba@hotmail.com,,,,,1,,,Shirley,Borba,,"1213 Grass valley Hwy
+Auburn CA 95603
+",,US,95603,,,StripeFreshbooks,3/4/2015
+
+,Stuart,Bunton,amyandstuart@gmail.com,,,PRINTER+,8800,1,,,Stuart,Bunton,,"MAY PICK-UP 4339 Agnes Ave Studio City CA 91604",310 993 6173,US,91604,,YesYes,StripeFreshbooks,3/4/2015
+
+,Vijay,Rakhra,vijayrakhra@gmail.com,,,PRINTER+,8700,1,,,Vijay,Rakhra,,"16022 Rose Ave Monte Sereno CA 95030",(408) 656-1014,US,95030,,NoYes,StripeFreshbooks,3/4/2015
+
+,Wendy,Roe,wendy@studio-br.com,,,PRINTER+,8800,1,,,Wendy,Roe,,"1873 SW Troon Ave Bend Oregon 97702",541-390-7942,US,97702,,YesYes,StripeFreshbooks,3/4/2015
+
+,Brandon,Gresham,brandon@simple-color.com,,,BASIC,5075,1,,,Brandon,Gresham,,"608 Devon Drive Homewood AL 35209",(205) 2182776,US,35209,,NoNo,Stripe - WPPI,3/5/2014
+
+,Brooks,Clayton,brooks@swatch-studios.com,,,BASIC - PRINTER+ W/O DS40,7000,1,,,Brooks,Clayton,Swatch Studios,"117 1/2 E Reed Ave Bowling Green Ohio 43402",(419)351-3360,US,43402,,YesYes,StripeWebsite,3/5/2014
+
+,Brooks,Clayton,brooks@swatch-studios.com,,,PRINTER+ Enclosure,$0,1,,,Brooks,Clayton,Swatch Studios,"117 1/2 E Reed Ave Bowling Green Ohio 43402",(419) 351-3360,US,43402,,NoNo,Already Paid,3/5/2014
+
+,Carina,Romano,carina@lovemedophotography.com,,,BASIC,5075,1,,,Carina,Romano,,"
+2451 Tulip Street Phila PA 19125",(215) 4072839,US,19125,,NoNo,Stripe - WPPI,3/5/2014
+
+,Catalina,Bloch,cata.bloch@gmail.com,,,PRINTER+,8200,1,,,Catalina,Bloch,,"247 Livery Street Kanata Ontario
+K2v0a5",(613) 2408858,US,2v0a5,,YesYes,Stripe - WPPI,3/5/2014
+
+,Janice,Lundberg,janlundbergphotos@gmail.com,,,PRINTER+,6400,1,,,Janice,Lundberg,,"c/o McCalls Catering
+350 Florida Street San Francisco CA 94110-1411 Businss Address",(415) 9741771,US,94110,,NoYes,Stripe - WPPI,3/5/2014
+
+,JB,Sallee,info@salleephotography.com,,,BASIC,5900,1,,,JB,Sallee,,"3336 University Park Ln Irving. TX
+75063",(972) 8693300,US,75063,,YesYes,Stripe - WPPI,3/5/2014
+
+,Katie,McPherson,katieddy@gmail.com,,,PRINTER,6375,1,,,Katie,McPherson,,"Shutterfreek 3905 N. Mesa Verde Ave. Farmington NM
+87401",(505) 8607490,US,87401,,NoNo,Stripe - Jotform,3/5/2014
+
+,Luis,Chiangmai,luis.chiang@zonanuevestudios.com,,,PRINTER+,8300,1,,,Luis,Chiangmai,,"
+19501 West Country Club Dr. Apt 403 / Aventura
+Miami Florida 33180",(51) 987751618,US,33180,,YesYes,Stripe - WPPI,3/5/2014
+
+,Matthew,Lee,matthew@clycreation.com,,,??????,1000,1,,,Matthew,Lee,,"580 Broadway - Suite 1008
+New York NY 10012",(917) 6485780,US,10012,,,Stripe - WPPI,3/5/2014
+
+,Millie,Holloman,millie@millieholloman.com,,,BASIC,5900,1,,,Millie,Holloman,,"15 S 2nd St Wilmington NC
+28401 - Busines Address",(910) 6162788,CA,,,YesYes,Stripe - WPPI,3/5/2014
+
+,Richard,Singleton,r.singleton48@comcast.net,,,BASIC,5300,1,,,Richard,Singleton,,"2673 Oregon avenue Charleston
+ South Carolina 29405",(843) 4422963,US,29405,,NoYes,Stripe - WPPI,3/5/2014
+
+,Robby,Followel,robby@followellfotography.com,,,BASIC,5900,1,,,Robby,Followel,,"304 Jefferson Street Clinton MS
+39056",(601) 4884423,US,39056,,YesYes,Stripe - WPPI,3/5/2014
+
+,Samantha,Melanson,samantha@samanthamelanson.com,,,PRINTER+,8200,1,,,Samantha,Melanson,,"288 Grove Street Clinton MA
+01510","
+(508) 7380382",US,1510,,YesYes,Stripe - WPPI,3/5/2014
+
+,Brian,Schollin,bschollin@gmail.com,,,PRINTER+,9300,1,,,Brian,Schollin,,"140 nooks hill road
+cromwell Connecticut 06416",8609954754,US,6416,,YesYes,StripeFreshbooks,3/5/2015
+
+,Patrick,Sweeney,psphotography@optonline.net,,,PRINTER+,8800,1,,,Patrick,Sweeney,,"patrick sweeney
+patrick sweeney photography
+181 Graham Terrace
+saddle brook New Jersey 07663",2019062221,US,7663,,YesYes,Stripe,3/5/2015
+
+,Ian,Kreidich,kprattphoto@gmail.com,,,BASIC,5900,1,,,Ian,Kreidich,,"525 Central Pl Kirkwood MO 63122",(314) 882-9766,US,63122,,YesYes,Stripe - Jotform - WPPI Sale,3/6/2014
+
+,McKenzi,Taylor,mckenzi.taylor@gmail.com,,,PRINTER+,8200,1,,,McKenzi,Taylor,,"8455 w Sahara #148 Las Vegas NV 89117",(605) 2808108,US,89117,,YesYes,Stripe - Jotform - Custom - WPPI Sale,3/6/2014
+
+,Clay,Meyer,clay.meyer@ptk.org,,,PRINTER+,9300,1,,,Clay,Meyer,,"Phi Theta Kappa Honor Society
+1625 Eastover Drive
+Jackson Mississippi 39211",601-984-3616,US,39211,,YesYes,Check,3/6/2015
+
+,Nurdiyanah,Kamsan,nurdiyanah.k@gmail.com,,,BASIC,5900,1,,,Nurdiyanah,Kamsan,,"22 Fernwood Terrace #08-03 Singapore 458553",(65) 96992544,US,58553,,NoYes,Stripe - Jotform,3/7/2014
+
+,Peter,Chu,peter@aecode.com,,,BASIC,5575,1,,,Peter,Chu,,"Aecode
+1212 vista canyon Dr.
+Newbury park California 91320",3109571222,US,91320,,NoNo,StripeWebsite,3/7/2015
+
+,Peter,Orsatti,peterinbend@gmail.com,,,PRINTER+,9300,1,,,Peter,Orsatti,,"917 SW Vantage PT
+BEND Oregon 97702",541-306-1174,US,97702,,YesYes,StripeWebsite,3/7/2015
+
+,Jason,Huang,jason@table4weddings.com,,,BASIC,4900,1,,,Jason,Huang,,"248 Victoria Street
+Suite 9
+Costa Mesa CA 92627
+United States",214-444-8422,US,92627,,NoNo,Paypal,3/8/2013
+
+,Paul,Russell,hello@aprilandpaul.com,,,PRINTER+,8300,1,,,Paul,Russell,,"41 Franklin Place
+ Hattiesburg MS 39402",(601) 3109955,US,39402,,YesYes,Stripe - Jotform,3/8/2014
+
+,Vance,Lee,vance.j.lee@gmail.com,,,BASIC,5300,1,,,Vance,Lee,,"5 Mariner Terrace Unit 3901 Toronto ON M5V 3V6 Canada",(647) 2727027,CA,M5V 3V6,,NoYes,Stripe - Jotform,3/8/2014
+
+,Kiah,Mason-Marable,marieparkerphotos@gmail.com,,,PRINTER+,8300,1,,,Kiah,Mason-Marable,,"Marie Parker Photography
+1044 Park Ave
+Plainfield New Jersey 07060",908-230-7004,US,7060,,YesYes,Stripe - Jotform,3/9/2014
+
+,Cean,OrRett,cean@ceanone.com,,,PRINTER+,830000",1,,,Cean,OrRett,,"Cean One Photo
+1205 J St Ste C
+San Diego California 92101",310-739-0777,US,92101,,YesYes,StripeWebsite,4/1/2014
+
+,Megan,Chytraus,maceventsonline@gmail.com,,,PRINTER+ Enclosure,1100,1,,,Megan,Chytraus,,"4473 S New Vintage Court Salt Lake City UT 84124",(801) 865-4764,US,84124,,NoNo,Freshbooks - Stripe,4/1/2014
+
+,Mitch,Pallotta,jason@everlastingtours.com,,,BASIC,6900,1,,,Mitch,Pallotta,Everlasting Tours,"Mitch Pallotta
+635 Cherry St
+Central Point OR 97502",949-648-6758,US,78741,,YesYes,StripeFreshbooks,4/1/2715
+
+,Kim,Britenriker,kimbritenrikerphotography@gmail.com,,,PRINTER+,8800,1,,,Kim,Britenriker,,"4866 Wren Drive
+St. Cloud Florida 34772",407-908-3621,US,34772,,YesYes,Paypal eCheck - Website,4/10/2014
+
+,Tiffany,Thompson,kipani07@gmail.com,,,PRINTER,8700,1,,,Tiffany,Thompson,,"1620 Mayfair st
+simi valley California 93065",805-338-6161,US,93065,,YesYes,StripeWebsite,4/10/2015
+
+,Mike,Morby,info@meetpartycam.com,,,BASIC,5900,1,,,Mike,Morby,,"Mike Morby
+306 Laurelwood Rd
+Pottstown Pennsylvania 19465",610 7155462,US,19465,,YesYes,StripeWebsite,4/11/2014
+
+,Aly,Khan,alyk403@gmail.com,,,BASIC,6300,1,,,Aly,Khan,,"277 Skyview Shores Manor NE
+Calgary
+Alberta
+T3N 0H8
+Canada",5873230761,CA,T3N 0H8,,NoYes,StripeWebsite,4/13/2015
+
+,Derek,Reid,eytoday@gmail.com,,,PRINTER+,8800,1,,,Derek,Reid,,"12710 Epping Terrace
+Silver Spring Maryland 20906",(571) 4210294,US,20906,,YesYes,"Stripe - Jotform | StripeFreshbooks",4/14/2015
+
+,Mike,Bayman,mbayman@microsoft.com,,,PRINTER+,9300,1,,,Mike,Bayman,,"5881 OBISPO AVE.
+SUITE 102
+LONG BEACH CA 90805",253-205-3000,US,98001,,YesYes,StripeWebsite,4/14/2015
+
+,Steven,Tecson,stecson@gmail.com,,,PRINTER+ NAKED,1155000",2,,,Steven,Tecson,,"2101 East Lambert Road
+Suite 104
+La Habra CA
+90631",(562) 3735797,US,90631,,NoNo,LeaseStation,4/14/2015
+
+,Erika,Williams,ewill9466@gmail.com,,,PRINTER+,,1,,,Erika,Williams,,"7777 Westbank Expwy
+Westwego LA 70094",(504) 481-8506,US,70094,,YesYes,LeaseStation PO / PAID ON DELIVERY,4/15/2015
+
+,Kathylyn,Peralta,katperalta@gmail.com,,,BASIC,5800,1,,,Kathylyn,Peralta,,"16175 Sheltered Cove E Lathrop CA 95300",(650) 6421242,US,95300,,NoYes,"Stripe - Jotform | LeaseStation",4/15/2015
+
+,Jimmy,Prudente,info@prudentephoto.com,,,PRINTER+,8800,1,,,Jimmy,Prudente,,"65 Gates Street
+Unit 3
+Boston Massachusetts 02127",978-884-7677,US,2127,,YesYes,Paypal,4/16/2014
+
+,Denise,Gonsales,denisegonsales@comcast.net,,,PRINTER+,8700,1,,,Denise,Gonsales,,"20 Frederick Street
+Rincon Georgia 31326",912-663-3496,US,31326,,NoYes,StripeWebsite,4/16/2015
+
+,James,Boettcher,james@calgaryfoodtrucks.com,,,PRINTER+,9800,1,,,James,Boettcher,YYC Foodtrucks,"A20 416 MERIDIAN RDSE
+CALGARY
+Alberta
+T2A 1X2
+Canada",4039756040,CA,T2A 1X2,,YesYes,"StripeWebsite | StripeFreshbooks",4/16/2015
+
+,Joseph,Grant,joe@joegrantphotography.com,,,PRINTER+,8800,1,,,Joseph,Grant,,"18 Brook St
+Rensselaer NY 12144 ",(518) 925-9785,US,12144,,YesYes,StripeFreshbooks,4/16/2015
+
+,Kara,Missig,kara.missig@gmail.com,,,PRINTER,8200,1,,,Kara,Missig,,"19495 scenic harbour
+northville Michigan 48167",248-756-1818,US,48167,,YesYes,StripeWebsite,4/16/2015
+
+,Laurie-Yves,Lalanne,biglo17@hotmail.com,,,BASIC,6800,1,,,Laurie-Yves,Lalanne,,"EDITH MERCIER
+962 EAST 81ST
+BROOKLYN New York 11236",5147430955,CA,,,NoYes,StripeWebsite,4/16/2015
+
+,Christopher,Nobody Stranger,patientlywaiting@gmail.com,,,PRINTER+,8800,1,,,Christopher,Nobody Stranger,,"400 Bernard St Costa Mesa CA 92627",9492126363,US,92627,,YesYes,Cash,4/17/2014
+
+,Lauren,Crose,laurencrose@yahoo.com,,,PRINTER+,9300,1,,,Lauren,Crose,,"179 Hcr 2224 w
+Aquilla Texas 76622",817-706-6784,US,76622,,YesYes,Bank Transfer,4/17/2015
+
+,Bobbi,Peterson,bobbi@thesaltypeanut.com,,,BASIC,5450,1,,,Bobbi,Peterson,,"241 N. Musket Ridge Drive
+Sun Prairie WI 53590",6086300652,US,53590,,NoYes,Paypal,4/18/2013
+
+,Ed,Atrero,ed@atrero.com,,,BASIC,3080,1,,,Ed,Atrero,,"2156 Silverado St San Marcos CA 92078",7606834282,US,92078,,NoNo,Check,4/18/2013
+
+,Jennifer,Sosa,jensosa25@gmail.com,,,BASIC,5900,1,,,Jennifer,Sosa,,"3636 167th St
+Flushing NY 11358-2118",347-224-2304,US,11358,,YesYes,Paypal,4/18/2013
+
+,Kimberly,Person,loren@alantephotography.com,,,BASIC,5900,1,,,Kimberly,Person,,"5230 C. California Ave. SW Seattle WA 98136",206 418 6286,US,98136,,YesYes,Paypal,4/18/2013
+
+,Romain,Negre,contact@romain-negre.com,,,BASIC,4962,1,,,Romain,Negre,,"17 rue Gustave
+34000 Montpellier France",33682160913,France,,,NoNo,Bank Transfer,4/18/2013
+
+,Severine,Wider,severine.wider@gmail.com,,,BASIC,5900,1,,,Severine,Wider,,"3645 Chatsfield Court
+Jacksonville
+FL 32224",904-238-2035,US,32224,,YesYes,Paypal,4/18/2013
+
+,Perez,Photography,cesar@perez-photography.com,,,BASIC,5075,1,,,Perez,Photography,,"Tanya Perez
+3511 Bevann
+Dallas TX 75234",469-877-4725,US,75234,,NoNo,Paypal,4/19/2013
+
+,Perez,Photography,cesar@perez-photography.com,,,PRINTER+ Upgrade,$120,1,,,Perez,Photography,,"Tanya Perez
+3511 Bevann
+Dallas TX 75234",469-877-4725,US,75234,,N/AN/A,Stripe - Jotform,4/19/2013
+
+,Terilyn,Lemaire,terilynlemaire@gmail.com,,,PRINTER,8700,1,,,Terilyn,Lemaire,,"24 Wolmsley Cres
+Nepean Ontario K2G 1J4
+Canada",604-568-5248,CA,K2G 1J4,,YesYes,StripeWebsite,4/19/2014
+
+,Severine,Wider,severine.wider@gmail.com,,,BASIC,6075,1,,,Severine,Wider,,"3645 chatsfield court
+jacksonville Florida 32224",904-238-2035,US,32224,,NoNo,StripeWebsite,4/19/2015
+
+,Jack,Rodriguez,rodriguezphoto@gmail.com,,,PRINTER,3600,1,,,Jack,Rodriguez,,"5725 Michaelson St Lakewood CA 90713",714-225-0683,US,90713,,YesYes,Check,4/2/2014
+
+,Kevin,Kittrell,kevin.kittrell@gmail.com,,,PRINTER+,8800,1,,,Kevin,Kittrell,,"1108 Violet Ln
+Kyle TX 78640 ",(571) 379-0947,US,78640,,YesYes,StripeFreshbooks,4/2/2015
+
+,Hali,Bui,hali@pinkposh.com,,,BASIC,5900,1,,,Hali,Bui,,"Pink Posh
+705 Inglewood Drive
+Flower Mound TX 75028",1-888-763-7228,US,75028,,YesYes,Paypal,4/20/2013
+
+,Ken,Clunk,ken@toomuchawesomeness.com,,,BASIC,5000,1,,,Ken,Clunk,,"2196 Bunts Rd. Lakewood Ohio 44107",216-367-9187,US,44107,,NoNo,Paypal,4/21/2013
+
+,Virginia,Campos,albinacampos@yahoo.com,,,BASIC,5900,1,,,Virginia,Campos,,"
+2719 W. Barstow Ave
+Fresno CA 93711",559 824-7555,US,93711,,YesYes,Paypal,4/21/2013
+
+,Matthew,Criscuolo,angelica.criscuolo@gmail.com,,,PRINTER+,8800,1,,,Matthew,Criscuolo,,"United Care Medical
+690 Bay Street
+Staten Island New York 10304",646-662-6567,US,10304,,YesYes,StripeWebsite,4/22/2014
+
+,Alexon,Lamin,studioartephoto@gmail.com,,,BASIC,6900,1,,,Alexon,Lamin,,"8 kimball ct
+111
+burlington Massachusetts 01803",617-388-0806,US,1803,,YesYes,"StripeWebsite | StripeFreshbooks",4/22/2015
+
+,Katherine,Hemann,thewonderphotobooth@gmail.com,,,PRINTER+,9300,1,,,Katherine,Hemann,,"Susan Hemann
+The Wonder booth
+817 n elm st
+apt f
+greensboro North Carolina 27401
+",3368134603,US,27284,,YesYes,StripeWebsite,4/22/2015
+
+,Trisha,Poitras,Missfidds@hotmail.com,,,BASIC,5900,1,,,Trisha,Poitras,,"Trisha Poitras
+Box 1963
+Slave lake Alberta T0G2A0
+Canada",7808490457,CA,T0G2A0,,YesYes,Paypal,4/23/2013
+
+,"
+Ricardo",Salgado,rickysmallz@hotmail.com / stillandmotionmedia@gmail.com,,,BASIC,5575,1,,,"
+Ricardo",Salgado,,"Still & Motion Media 2212 S Central Ave
+Cicero Illinois 60804",7087691404,US,60804,,NoNo,Paypal eCheck - Website,4/23/2014
+
+,Ben,Godkin,carolineplusben@gmail.com,,,PRINTER+ Upgrade,617500",1,,,Ben,Godkin,,"2001 Holly St. Austin TX 78702",2816105691,US,78702,,N/AN/A,StripeWebsite,4/23/2014
+
+,Neeveen,Bhadur,neeveenbhadur@gmail.com / naif@bhadur.com,,,PRINTER+,8300,1,,,Neeveen,Bhadur,,"Naif Bhadur
+4283 Express Lane
+Suite 225-031
+Sarasota FL 34238
+(941)538-6941",966555531999 / Shipper's # = (941)538-6941,US,34238,,YesYes,StripeWebsite,4/23/2014
+
+,Sara,Denton,archangelmotor@me.com,,,PRINTER,7700,1,,,Sara,Denton,,"Sara Nicole Photography
+1111 Foxworth Ct
+Ballwin Missouri 63011",3148005790,US,63011,,YesYes,Paypal - Website,4/23/2014
+
+,Susan,Mautner,susan@susanstripling.com,,,PRINTER+,6300,1,,,Susan,Mautner,,"516 N Haddon Ave
+Haddonfield New Jersey 08033",9172098425,US,8033,,YesYes,StripeWebsite,4/23/2014
+
+,Andrew,Gilbert,info@photographik.ca,,,PRINTER+,7800,1,,,Andrew,Gilbert,,"#406 103 10 Ave NW Calgary AB T2M 0B4 Canada",4036177614,CA,T2M 0B4,,YesYes,StripeFreshbooks - 50% - Remaining balance paid over 6 months,4/24/2014
+
+,David,Mignott,earportmusic@gmail.com,,,PRINTER,7700,1,,,David,Mignott,,"98 Saybrook Rd Essex Junction VT 05452",8025784799,US,5452,,YesYes,StripeFreshbooks,4/24/2014
+
+,Alexia,Rouquette,Alexia@foh.cc,,,PRINTER+,9570,1,,,Alexia,Rouquette,FOH,"9315 Park Drive Suite C
+Miami Shores FL
+33138",561.945.6755,US,33138,,YesYes,StripeFreshbooks,4/24/2015
+
+,Anastasios,Dakas,tdakas1219@msn.com,,,PRINTER+,9300,1,,,Anastasios,Dakas,,"35 gordons corner rd
+marlboro New Jersey 07746",7326109205,US,7746,,YesYes,StripeWebsite,4/24/2015
+
+,Ralph,Maldonado,ralphmaldonado29@yahoo.com,,,PRINTER+,9300,1,,,Ralph,Maldonado,,"2486 4th street
+sanger California 93657",5599789560,US,93657,,YesYes,StripeWebsite,4/24/2015
+
+,Rabih,Madi,rabih@madiphotography.com,,,PRINTER,7700,1,,,Rabih,Madi,,"
+5101 Eliot Ave. #213 Laval Quebec H7W 0G2 Canada",(514) 5820812,CA,H7W 0G2,,YesYes,StripeWebsite,4/25/2014
+
+,"
+Nicholas",Rhodes,nicky@nickydigital.com,,,BASIC,6400,1,,,"
+Nicholas",Rhodes,,"Secret Clubhouse -- NickyDigital.com
+117 South 3rd Street
+Ground Floor
+Brooklyn New York 11249",9147157382,US,11249,,YesYes,StripeWebsite,4/26/2014
+
+,Art,Urroz,myntpb@gmail.com,,,PRINTER,7700,1,,,Art,Urroz,,"39 Belevue
+Irvine California 92602",949 981-5273,US,92602,,YesYes,StripeWebsite,4/26/2014
+
+,Danny,Klimetz,danny@dannykphotography.com,,,BASIC,6400,1,,,Danny,Klimetz,,"850 Insight Park
+Suite 140
+University Mississippi 38677",6628011448,US,38677,,YesYes,StripeWebsite,4/26/2014
+
+,Harry,Bisel,harry@klikkstudio.com,,,PRINTER,7700,1,,,Harry,Bisel,,"Harry Bisel
+KLIKKSTUDIO
+13827 Hardy Street
+Overland Park Kansas 66223",913-238-1302,US,66223,,YesYes,Paypal - Website,4/27/2014
+
+,Sarah,Nickerson,sarah@thenickersons.ca,,,BASIC,5575,1,,,Sarah,Nickerson,,"The Nickersons: Wedding & Lifestyle Photography
+618 West 6th Avenue
+#13
+Vancouver
+British Columbia
+V5Z 1A3
+Canada",7786288604,CA,V5Z 1A3,,NoNo,Paypal - Website,4/27/2014
+
+,Dominick,Difilippo,info@empiresounddj.com,,,PRINTER,8200,1,,,Dominick,Difilippo,,"199 north kensico ave
+white plains New York 10604",914-450-1185,US,10604,,YesYes,StripeFreshbooks,4/27/2015
+
+,Whitney,Clarke,whitneyc@lolliandpops.com,,,N/A,2300,1,,,Whitney,Clarke,,,,US,,,N/AN/A,StripeWebsite,4/28/2014
+
+,Kyle,Christensen,kchristensen222@gmail.com,,,PRINTER+,8800,1,,,Kyle,Christensen,,"57 State ST.
+Manchester New York 14504",585-905-2057,US,14504,,YesYes,StripeWebsite,4/29/2014
+
+,Marco,Buenrostro,markobuenrostro@me.com,,,PRINTER+,9300,1,,,Marco,Buenrostro,,"3711 Medical Dr Apt 123
+San Antonio TX 78229 ",(210) 307-6111,US,78229,,YesYes,StripeFreshbooks,4/29/2015
+
+,Holly,Tate,holly@vanderbloemen.com,,,BASIC,4900,1,,,Holly,Tate,,"5504 Morningside Dr.
+Houston TX 77005",713.300.9665,US,77005,,NoYes,Check,4/3/2014
+
+,Olivia,Hodges,olivia@olivialeighweddings.com,,,PRINTER+,7975,1,,,Olivia,Hodges,,"Olivia Hodges
+845 W Fulton Market
+306
+Chicago Illinois 60607",3125431889,US,60607,,NoNo,StripeWebsite,4/3/2014
+
+,Matthew,Luedke,luedkem@gmail.com,,,PRINTER+,8700,1,,,Matthew,Luedke,,"545 w katelyn lane
+spokane Washington 99224",509-979-6124,US,99224,,NoYes,Paypal - Website,4/3/2015
+
+,Todd,Fair,todd.m.fair@gmail.com,,,PRINTER+,9800,1,,,Todd,Fair,,"325 6th Avenue
+Carnegie Pennsylvania 15106",412-439-0120,US,15106,,YesYes,"StripeWebsite | LeaseStation",4/3/2015
+
+,Kip,Beelman,info@kipbeelmanphotography.com,,,BASIC,5675,1,,,Kip,Beelman,,"2212 4th Avenue
+Seattle WA 98121",206.579.0010,US,98121,,YesNo,Paypal,4/30/2013
+
+,Michael,Buehler,mbuehler@live.com,,,BASIC,6000,1,,,Michael,Buehler,,"MJ Studios
+129 Elm Street
+Oriskany New York 13424",3155258388,US,13424,,YesYes,StripeWebsite,4/30/2014
+
+,Rob,No last Name,rob@inknburn.com,,,BASIC,6100,1,,,Rob,No last Name,,210 McCormick Avenue Suite A costa mesa ca 92626,949-257-6781,US,92626,,YesYes,Check,4/4/2014
+
+,Sarkis,Vardanian,sakosan@ymail.com,,,BASIC,5200,1,,,Sarkis,Vardanian,,"520 E. Glenoaks Blvd
+Glendale CA
+91205 ",(818) 8005301,US,1205,,NoNo,Paypal + Check,4/5/2013
+
+,Justin,Element,Hello@JustinElement.com,,,PRINTER+,5975,1,,,Justin,Element,,"2127 E Bangor Way Anaheim CA 92806",(714) 544-7526,US,92806,,NoNo,Check,4/5/2014
+
+,Laurent,Martin,info@helenaandlaurent.com,,,BASIC,6400,1,,,Laurent,Martin,,"Helena And Laurent Photography
+4401 San Leandro St
+Unit 2
+Oakland California 94601",5122296662,US,94601,,YesYes,Paypal - Website,4/5/2014
+
+,Chris,Beck,photobybeck@gmail.com,,,UPGRADE PRINTER+,2400,1,,,Chris,Beck,,"914 164th St SE
+Ste B12 # 536
+Mill Creek WA 98012","
+(907) 223-5130 ",US,98012,,NANA,StripeFreshbooks,4/7/2015
+
+,Nadra,Edgerley,nadra@nadraphotography.com,,,BASIC,6300,1,,,Nadra,Edgerley,,"9 Grapevine Lane
+Scarborough ME 04074 ",(207) 885-9300,US,4074,,YesYes,LeaseStation,4/7/2015
+
+,Daniyar,Abdullaev,dan.abdullaev@gmail.com,,,PRINTER+,23000,2,,,Daniyar,Abdullaev,,"SHIPPING AGENT: HAF INC
+152-15 Rockaway Boulevard
+Jamaica NY 11434
+718 5283800
+800 2216028",718 5283800,US,16028,,Yes220V Yes,Bank Transfer - Freshbooks,4/7/2015
+
+,Greg,Harren,info@gregbrett.com,,,BASIC,6300,1,,,Greg,Harren,,"86 livoli avenue
+Braintree MA 02184",617.595.6448,US,2184,,NoYes,StripeFreshbooks,4/8/2015
+
+,Leah,Remillet,lrportraits@gmail.com,,,PRINTER,4920,1,,,Leah,Remillet,,"3303 174th PL SE
+Bothell WA. 98012",808-351-8210,US,98012,,YesYes,StripeFreshbooks,4/8/2015
+
+,Renae,Turley,green_lighthouse@yahoo.com,,,PRINTER+,9300,1,,,Renae,Turley,,"8107 Babe Ruth St
+San Antonio TX 78240",(210) 563-5665,US,78240,,YesYes,LeaseStation,4/8/2015
+
+,Amy,Hammond,amy@hellogorgeousphotobooth.com,,,PRINTER+,8800,1,,,Amy,Hammond,,"
+11854 Forest Park Cir
+Bradenton FL 34211",(941) 773-5017,US,34211,,YesYes,LeaseStation PO / PAID ON DELIVERY,4/9/2015
+
+,Savannah,Ekada,savannahekada@yahoo.com,,,PRINTER+,9800,1,,,Savannah,Ekada,,"5676 Dawn Falls St
+Las Vegas NV 89148",(702) 810-2911,US,89148,,YesYes,"LeaseStation | StripeFreshbooks",4/9/2015
+
+,Eric,Ephraim,erice555@gmail.com,,,BASIC,5100,1,,,Eric,Ephraim,,"3304 Coral Harbor Dr. Las Vegas NV 89117",7025914004,US,89117,,YesYes,Paypal,5/1/2013
+
+,Stephen,Sheets,stefensheets@gmail.com,,,PRINTER,7700,1,,,Stephen,Sheets,,"15214 Amanda dr.
+Gonzales Louisiana 70737",2257154207,US,70737,,YesYes,Bank Transfer,5/1/2014
+
+,Andre,Gant,andre@andregant.com,,,PRINTER+,9300,1,,,Andre,Gant,,"911 Dillons Vista
+San Anotnio Texas 78251",210-872-6998,US,78251,,YesYes,StripeWebsite,5/1/2015
+
+,Eric,Ephraim,erice555@gmail.com,,,BASIC,10600,1,,,Eric,Ephraim,,"3304 Coral Harbor Dr. Las Vegas NV 89117",7025914004,US,89117,,YesYes,Paypal,5/10/2013
+
+,Aric,Ollah,aric.ollah@gmail.com,,,PRINTER,8200,1,,,Aric,Ollah,,"2328 Woodland Ave
+Duluth MN 55803",(218) 428-3540,US,55803,,YesYes,LeaseStation,5/11/2015
+
+,Ryan,Taisey,ryan@ryanandjacy.com,,,PRINTER+,9800,1,,,Ryan,Taisey,,"16350 124th Pl Ne
+Woodinville WA 98072",(425) 471-3275,US,98072,,YesYes,LeaseStation,5/12/2015
+
+,Nathiea,Jacks,nathiea12@yahoo.com,,,PRINTER,8200,1,,,Nathiea,Jacks,,"3530 york crest
+San antonio Texas 78245",3135987045,US,78245,,YesYes,Bank Transfer,5/13/2015
+
+,Janelle,Councill,janellebrooke@mac.com,,,PRINTER,7700,1,,,Janelle,Councill,,"Janelle Brooke Photography
+11 Milmohr Ct.
+Northport New York 11768",631-261-0307,US,11768,,YesYes,StripeWebsite,5/14/2014
+
+,Aldrige,Ong,whipmix2000@yahoo.com,,,PRINTER+,930000",1,,,Aldrige,Ong,,"2218 Mira Vista Ave Apt 1
+Montrose CA 91020 ","
+(213) 618-9735 ",US,91020,,YesYes,StripeFreshbooks,5/14/2015
+
+,Joshua,Moore,joshua.aaron.moore@gmail.com,,,PRINTER,8200,1,,,Joshua,Moore,,"904 Pine Forest Trl
+Columbia South Carolina 29210",803-361-7342,US,29210,,YesYes,StripeWebsite,5/15/15`
+
+,Jerrica,Anheluk,anheluk.photobomb@live.com,,,PRINTER+,8800,1,,,Jerrica,Anheluk,,"J.S. Anheluk Hospitality LLC
+1537 48th St South
+#302
+Fargo North Dakota 58103",701-260-0245,US,58103,,YesYes,StripeWebsite,5/17/2014
+
+,Peter,Nikolaidis,peter@thebluprint.ca,,,PRINTER,9700,1,,,Peter,Nikolaidis,,"355 Redstone Rd
+Richmond Hill
+Ontario
+L4S 2V7
+Canada",6472053441,CA,L4S 2V7,,YesYes,StripeWebsite,5/18/2015
+
+,Jesse,Olsen,jessejayolsen@gmail.com,,,PRINTER,7100,1,,,Jesse,Olsen,,"Jesse olsen
+2149 north routledge park
+London
+Ontario
+N6G 0J8
+Canada",(226) 224-2694,CA,N6G 0J8,,NoYes,StripeWebsite,5/19/2014
+
+,Jason,Bach,jason@photogeniclab.com,,,PRINTER+,7975,1,,,Jason,Bach,,"The Photogenic Lab
+1075 Adams St.
+Denver Colorado 80206",720-254-8228,US,80206,,NoNo,StripeWebsite,5/2/2014
+
+,Nicola,Richard,nicolarichard02@gmail.com,,,PRINTER,7100,1,,,Nicola,Richard,,"Nicola Richard
+Photos by Nicola
+29 Garett Way
+Holliston Massachusetts 01746",7742701903,US,1746,,NoYes,StripeWebsite,5/20/2014
+
+,Levi,Ely,levi@elybrothers.com,,,PRINTER+,1705000",2,,,Levi,Ely,,"The Awesomatic
+45 Tibet Rd
+Columbus Ohio 43202",(513) 519-1874,US,43202,,YesNo,StripeWebsite,5/20/2014
+
+,Chris,Beaudoin,chris@captivatingstudio.com,,,BASIC,6075,1,,,Chris,Beaudoin,,"4444 Jordan Dr
+Grand Blanc MI 48439 ",(810) 423-5603,US,48439,,NoNo,LeaseStation,5/20/2015
+
+,Harmony,Ries,joeyregerphotography@gmail.com,,,PRINTER,8200,1,,,Harmony,Ries,,"1391 jasper ave
+Mentone California 92359",9092763645,US,92359,,YesYes,StripeFreshbooks,5/20/2015
+
+,Lindsay,Caldwell,Lindsay.Caldwell@ngc.com,,,PRINTER,8200,1,,,Lindsay,Caldwell,,"2477 MANHATTEN BEACH BLVD PO# 4300024002
+ATTN: NICOLE DESROSIERS
+REDONDO BEACH CA 90278",,US,90278,,YesYes,StripeFreshbooks - Paid by OBDULIA ROBINSON,5/20/2015
+
+,Sharon,Davis,sharon@timeforartkids.com,,,PRINTER,8200,1,,,Sharon,Davis,,"2425 Kildaire Farm Rd Ste 104
+Cary NC 27518",(919) 724-8480,US,27518,,YesYes,LeaseStation,5/20/2015
+
+,Eric,Lewis,hello@photographybyseneca.com,,,PRINTER+,9300,1,,,Eric,Lewis,,"709 Fairhill Road
+Montrose Pennsylvania 18801",5702784388,US,18801,,YesYes,StripeWebsite,5/21/2015
+
+,Jill,Houser,jillmariehouser@gmail.com,,,PRINTER+,9800,1,,,Jill,Houser,,"1440 Corona St
+Apt 2
+Denver Colorado 80218",3214747530,US,80218,,YesYes,StripeWebsite,5/21/2015
+
+,Tiffany,Carlson,runnertiff@mac.com,,,PRINTER+,9300,1,,,Tiffany,Carlson,,"1792 Park Lake Drive
+Boulder Colorado 80301",303-665-1162,US,80301,,YesYes,StripeWebsite,5/21/2015
+
+,Kelsey,Tolsma,ktolsma11@gmail.com,,,USED PRINTER+,2650,1,,,Kelsey,Tolsma,,"1121 Garden Drive
+Lynden WA 98264",360-441-8084,US,98264,,YesYes,StripeFreshbooks,5/22/2014
+
+,Erin,Loesley,info@ekatephotography.com,,,BASIC,6900,1,,,Erin,Loesley,,"4518 Andes Dr
+Fairfax VA 22030",(703) 385-6069,US,22030,,YesYes,LeaseStation,5/22/2015
+
+,Sally,Flores,sally2gogo@yahoo.com,,,PRINTER+,8800,1,,,Sally,Flores,,"
+1823 E Dunbar Dr
+Phoenix AZ 85042 ",(602) 454-9591,US,85042,,YesYes,StripeFreshbooks,5/22/2015
+
+,Travis,Wetzel,travis@ttunespro.com,,,PRINTER,7400,1,,,Travis,Wetzel,,"10014 N Main St
+Richmond IL 60071",(262) 620-8842,US,60071,,NoYes,"StripeFreshbooks | LeaseStation",5/22/2015
+
+,Dexter,Cura,dexter@thelaughbox.com,,,BASIC,5800,1,,,Dexter,Cura,,"901 Henderson Avenue
+Sunnyvale California 94086",415-935-9807,US,94086,,NoYes,Paypal - Website,5/23/2014
+
+,Ghada,Alsultan,ghada.alsultan@hotmail.com,,,PRINTER+,9300,1,,,Ghada,Alsultan,,"1263 S Chillicothe Rd
+Suite 248-81
+Aurora Ohio 44202",0096653 046 6416,US,44202,,YesYes,StripeWebsite,5/23/2015
+
+,Emilie,Sommer,photo@emilieinc.com,,,PRINTER+,8800,1,,,Emilie,Sommer,,"Emilie Inc
+159 Fairwind Ln
+Cumberland Foreside Maine 04110",207-272-2285,US,4110,,YesYes,StripeWebsite,5/25/2014
+
+,"
+Abraham",Raoof,abrahamraoof@gmail.com,,,PRINTER+,8800,1,,,"
+Abraham",Raoof,,"San Jose Police Dept
+5981 Winged Foot Dr
+Gilroy California 95020",4086791575,US,95020,,YesYes,StripeWebsite,5/26/2014
+
+,Stephanie,Cabezas,picp3rfect@gmail.com,,,PRINTER,8700,1,,,Stephanie,Cabezas,,"2123 Sw 149th Ave
+Miramar FL 33027",(954) 865-4970,US,33027,,YesYes,"StripeFreshbooks | LeaseStation",5/26/2015
+
+,Moo,Jae,moo@ollistudio.com,,,BASIC,5600,1,,,Moo,Jae,,"OLLI STUDIO
+336 West 37th street
+#900
+new york New York 10018",917-244-4231,US,10018,,NoYes,Cash,5/27/2014
+
+,Tammie,Billey,johndoe@gmail.com,,,BASIC,6400,1,,,Tammie,Billey,,"Merry Booth 118 West Boston St. Chandler Arizona 85225",4802041565,US,85225,,YesYes,StripeWebsite,5/27/2014
+
+,Carrie,Dallhoff,carrie@carriedphotography.com,,,PRINTER+,9800,1,,,Carrie,Dallhoff,,"3513 Fallston Rd
+fallston Maryland 21047",703-927-1593,US,21047,,YesYes,StripeWebsite,5/27/2015
+
+,Jason,Jobe,esystems80@gmail.com,,,PRINTER,8700,1,,,Jason,Jobe,,"aria jobe
+1622 w jefferson
+philadelphia Pennsylvania 19121",2149238373,US,19121,,YesYes,StripeWebsite,5/27/2015
+
+,Ashlin,Pal,ashlinpal@hotmail.com,,,PRINTER,8700,1,,,Ashlin,Pal,,"Edge Logistics
+1755 Grant Ave
+#2300357
+Blaine Washington 98230",783231695,US,98230,,YesYes,StripeFreshbooks,5/28/2015
+
+,Paul,McPherson,paul@shutterfreek.com,,,PRINTER,8200,1,,,Paul,McPherson,,"3905 N. Mesa Verde Ave.
+Farmington NM 87401",505.860.9901,US,87401,,YesYes,StripeFreshbooks,5/28/2015
+
+,Sean,Whitman,info@cricketsphoto.com,,,PRINTER+,9800,1,,,Sean,Whitman,,"2935 cardassi drive
+ocoee Florida 34761",4074842931,US,34761,,YesYes,StripeWebsite,5/28/2015
+
+,Don,Pham,yestake1@aol.com,,,PRINTER,8200,1,,,Don,Pham,,"1114 pelham
+Waterford Michigan 48328",248-224-5000,US,48328,,YesYes,StripeWebsite,5/29/2015
+
+,Harry,Dutton,hello@duttonandjames.com,,,PRINTER+,9300,1,,,Harry,Dutton,,"109 S 5th St Apt 500
+Brooklyn NY 11249",(347) 712-0734,US,11249,,YesYes,"StripeFreshbooks | LeaseStation",5/29/2015
+
+,Justine,Fein-Bursoni,justine@justinebursoni.com,,,BASIC,6300,1,,,Justine,Fein-Bursoni,,"819 West Vine Street
+Champaign Illinois 61820",773-988-1245,US,61820,,NoYes,StripeWebsite,5/30/2015
+
+,Yvonne,Baughman,yvonne.baughman@gmail.com,,,PRINTER,7700,1,,,Yvonne,Baughman,,"Yvonne Baughman 737 Cottage Lane Paso Robles California 93446",8052153216,US,93446,,YesYes,StripeWebsite,5/31/2014
+
+,Ernesto,Leyva,eleyvaz@yahoo.com,,,PRINTER+,9300,1,,,Ernesto,Leyva,,"6910 N.W 50 Street
+Suite 107
+miami Florida 33166-5632",305 5920755,US,33166,,YesYes,StripeFreshbooks,5/4/2015
+
+,Jeff,Cowles,lancef@peppermillcas.com,,,PRINTER,8700,1,,,Jeff,Cowles,Peppermill Resort Casino,"
+Attn: Marketing
+Peppermill Resort Casino
+2707 s. virginia street
+reno Nevada 89502",775-689-7248,US,89509,,YesYes,StripeWebsite,5/4/2015
+
+,Matthew,Mitchell,matt@diglounge.net,,,PRINTER+,9300,1,,,Matthew,Mitchell,,"651 Price Drive
+Burbank California 91504",(323) 382-2362,US,91504,,YesYes,Bank Transfer,5/5/2015
+
+,Stephanie,Young,stephanie@saltwaterstudios.net,,,PRINTER+,9300,1,,,Stephanie,Young,,"416 n. 2nd street
+hammonton New Jersey 08037",609-338-3339,US,8037,,YesYes,StripeFreshbooks,5/5/2015
+
+,Ashley,Fisher,ashleyfisherphotography@gmail.com,,,PRINTER+,9800,1,,,Ashley,Fisher,,"8658 Spoon Dr
+Saint Louis MO 63132 ",(314) 398-0074,US,63132,,YesYes,"StripeFreshbooks | LeaseStation",5/6/2015
+
+,Brittany,Conner,hello@brittanyconner.com,,,PRINTER+,9300,1,,,Brittany,Conner,,"6720 Jubilee Center Way
+Suite 103
+Knoxville Tennessee 37912",865-294-3919,US,37912,,YesYes,StripeWebsite,5/6/2015
+
+,Julienne,Smith,info@mihiphotobooth.com,,,PRINTER,9200,1,,,Julienne,Smith,,"5720 W 3rd Pl
+Lakewood CO 80226",(720) 519-3530,US,80226,,YesYes,"LeaseStation | StripeFreshbooks",5/6/2015
+
+,Virginia,Richardson,yesvirginiacreations@gmail.com,,,PRINTER,8200,1,,,Virginia,Richardson,,"44049 St. Andrews Church Road
+California Maryland 20619",2402588206,US,20619,,YesYes,StripeWebsite,5/6/2015
+
+,Brian,Fletcher,brian@brianfletcherphotography.com,,,PRINTER+ DEMO,8300,1,,,Brian,Fletcher,,"2300 Fairview Rd Apt Y207
+Costa Mesa CA 92626",(949) 981-1008,US,92626,,YesYes,LeaseStation,5/7/2015
+
+,Dave,Moss,dave@abbyplusdave.com,,,BASIC,6075,1,,,Dave,Moss,,"37 Martin Crossing Way NE
+Calgary AB Canada T3J 3V1",403-460-3628,CA,T3J 3V1,,YesNo,Paypal - Two payments of 3037.5,5/9/2013
+
+,Kraig,Ramsey,johnramsey_05@yahoo.com,,,PRINTER,830000",1,,,Kraig,Ramsey,,"the87REELcompany
+2206 West Holly Avenue
+Duncan Oklahoma 73533",5804754041,US,73533,,YesYes,Bank Transfer,5/9/2014
+
+,Shaun,Simmonds,simmonds.shaun@gmail.com,,,PRINTER,7700,1,,,Shaun,Simmonds,,"15905 Lee Carter Road
+Gainesville Va 20155",5712394360,US,20155,,YesYes,Check,5/9/2014
+
+,Gracelynn,Bell,gdt_10@me.com,,,PRINTER+,10340,1,,,Gracelynn,Bell,,"2750 Millerville Rd Apt 2306
+Baton Rouge LA 70816 ",(985) 662-4944,US,70816,,YesYes,StripeFreshbooks,6/1/2015
+
+,Sasha,Perry,keenan0708@aol.com,,,PRINTER+,880000",1,,,Sasha,Perry,,"55 Arrants Rd
+North East Maryland 21901",410-441-1223,US,21901,,YesYes,StripeWebsite,6/10/2014
+
+,Chris,Miguel,spintronix@gmail.com,,,PRINTER,8200,1,,,Chris,Miguel,Spintronix Entertainment,"258 san fernando way
+daly city California 94015",6507401748,US,94015,,YesYes,Check,6/10/2015
+
+,Loretta,"Hansell
+Abundant",lhansel@alfconline.com,,,PRINTER+,9300,1,,,Loretta,"Hansell
+Abundant",Living Family Church,"10900 Civic Center Drive
+Rancho Cucamonga California 91730",909-987-7110,US,91730,,YesYes,Check,6/10/2015
+
+,Stephanie,Lynn,sdggroupventures@gmail.com,,,PRINTER+,9840,1,,,Stephanie,Lynn,"SDG Group Ventures LLC ","7985 Preserve Cir Apt 1118
+Naples FL 34119 ",(239) 404-6940,US,34119,,YesYes,LeaseStation,6/10/2015
+
+,Vu,Nguyen,snapmyphotobooths@gmail.com,,,PRINTER+,8700,1,,,Vu,Nguyen,,"3628 Westchase dr.
+Houston TX 77042",832-646-8342,US,77042,,NoYes,StripeWebsite,6/10/2015
+
+,Brian,Spears,briank.spears@yahoo.com,,,PRINTER+,8800,1,,,Brian,Spears,,"Touch of essence photobooth
+3601 Marsala way
+Modesto California 95356",(209)484-7707,US,95356,,YesYes,StripeWebsite,6/12/2014
+
+,Rebecca,Fishman,rebecca@birdsofafeatherphoto.com,,,PRINTER+,9300,1,,,Rebecca,Fishman,,"jennifer grant
+birds of a feather
+6228 klump ave
+north hollywood California 91606",8183075329,US,91606,,YesYes,StripeWebsite,6/12/2015
+
+,Cadence,Cornelius,hers@cadenceandeli.com,,,PRINTER+,9800,1,,,Cadence,Cornelius,,"1229 Tyler Street NE Suite 200
+Minneapolis MN 55413",(952) 594-9711,US,55413,,YesYes,StripeFreshbooks,6/13/2015
+
+,D'Anna,Wilcox,playfulprints@yahoo.com,,,PRINTER,8200,1,,,D'Anna,Wilcox,,"Playful prints photo booth llc 343 live oak loop Central point Oregon 97502",5412823394,US,97502,,YesYes,StripeWebsite,6/13/2015
+
+,Maxwell,Lane,maxwellklane@gmail.com,,,PRINTER,8700,1,,,Maxwell,Lane,,"UBS International
+c/o Max Lane
+222 E. Carrillo St.
+Suite 104
+Santa Barbara CA 93101",(714) 402-2847,US,93101,,YesYes,"StripeFreshbooks | LeaseStation",6/15/2015
+
+,Kyle,Mcconnaughy,kylemacdesigns@gmail.com,,,PRINTER+,17600,2,,,Kyle,Mcconnaughy,Smash Multimedia,"1123 Howard St.
+Bridgeport OH 43912",740-238-2103,US,43912,,YesYes,StripeFreshbooks,6/15/2015
+
+,Kendra,Wilhelm,southernsistersphotos@gmail.com,,,BASIC,6675,1,,,Kendra,Wilhelm,,"357 N Shore rd
+mathis Texas 78368",3614495035,US,78368,,YesNo,StripeWebsite,6/16/2015
+
+,Dan,Aguirre,danaguirrephoto@gmail.com,,,BASIC,667500",1,,,Dan,Aguirre,,"Dan Aguirre Photography
+61 Marshall St
+Apt 2
+Somerville Massachusetts 02145",8452164308,US,2145,,NoNo,StripeWebsite,6/17/2014
+
+,Collins,Metu,collins@collinsmetu.com,,,PRINTER+,8500,1,,,Collins,Metu,,"13202 Briar Forest Drive #1210 Houston Texas 77077",7132340527,US,77077,,YesYes,StripeFreshbooks,6/18/2014
+
+,Lauren,Marsh,info@propsphotobooth.com,,,BASIC,5575,1,,,Lauren,Marsh,,"PROPS PHOTO BOOTH COMPANY
+1013 PALISADE AVE
+APT B3
+union city New Jersey 07087",3476586499,US,7087,,NoNo,StripeWebsite,6/18/2014
+
+,Mitchell,Franz,m.a.franz@gmail.com,,,PRINTER,7700,1,,,Mitchell,Franz,,"902 carroll drive
+yoakum Texas 77995",3612934747,US,77995,,YesYes,StripeWebsite,6/18/2014
+
+,Olivia,Gill,oliviarae.ca@gmail.com,,,PRINTER+,9300,1,,,Olivia,Gill,,"1200 College Pkwy
+Lewisville TX 75077",(619) 677-4717,US,75077,,YesYes,LeaseStation,6/19/2015
+
+,Matt,Norine,info@mattandjulieweddings.com,,,PRINTER,7700,1,,,Matt,Norine,,"743 Brick Row #1404 Richardson TX 75081",214-212-4820,US,75081,,YesYes,StripeWebsite,6/2/2014
+
+,Lydia,Royce,lydia@lydiaroyce.com,,,P+ UPGRADE ONLY,,1,,,Lydia,Royce,,"1815 E Lindsey St Apt 1
+Norman OK 73071",(405) 757-8222,US,73071,,,LeaseStation,6/22/2015
+
+,Megan,Schmidling,megan@mrandmrsweddingevents.com,,,PRINTER,8200,1,,,Megan,Schmidling,,"3694 Bellerive Blvd.
+Saint Louis Missouri 63116",3143496592,US,63116,,YesYes,"Check | StripeWebsite",6/23/2015
+
+,Amy,Scarborough,amygawlik@gmail.com,,,PRINTER+,9300,1,,,Amy,Scarborough,,"181 Rodgers Ravine Cove
+Driftwood Texas 78619",5124226526,US,78619,,YesYes,StripeFreshbooks,6/24/2015
+
+,Shane,Bradley,shanebradley3@gmail.com,,,PRINTER+ no DS40,7275,1,,,Shane,Bradley,,"
+(Lives in Vancouver) 603 Cherry St. Sumas WA 98295",604-308-1196,US,98295,,YesNo,StripeFreshbooks,6/25/2014
+
+,Pamila,Bains,pamila.bains@gmail.com,,,PRINTER+,9300,1,,,Pamila,Bains,,"Lit Up Events
+3981 Fraser Street
+Vancouver
+British Columbia
+V5V 4E5
+Canada",604-537-9148,CA,V5V 4E5,,YesYes,Bank Transfer,6/25/2015
+
+,Ryan,Veil,ryan@studioveil.com,,,BASIC,1585000",3,,,Ryan,Veil,,"Studio Veil
+2539 11th Ave
+Anoka Minnesota 55303",6512386761,US,55303,,YesYes,StripeWebsite,6/26/2014
+
+,Krystina,Jaranilla,Jaranillak@yahoo.com,,,BASIC,5800,1,,,Krystina,Jaranilla,,"7925 Drake
+Fontana CA 92336",(909) 957-2629,US,92336,,YesYes,Paypal - Two payments of $2900,6/27/2013
+
+,Tony,Le,gotstyo@gmailc.om,,,BASIC,5200,1,,,Tony,Le,,,(626) 8336457,US,,,NoYes,Paypal eCheck - Not entirely sure,6/28/2013
+
+,Lauren,Sorrells,lasorrells12@gmail.com,,,PRINTER (DEMO),7700,1,,,Lauren,Sorrells,,"8606 Calvin Ave
+Northridge CA 91324",(818) 795-7471,US,91324,,YesYes,LeaseStation,6/29/2015
+
+,Ryan,Timm,ryan@ryantimm.com,,,PRINTER+ CUSTOM,7775,1,,,Ryan,Timm,,"602 S Yates Ave
+Kankakee IL 60901 ",(815) 671-7787,US,60901,,YesNo,StripeFreshbooks,6/29/2015
+
+,Steven,Rooney,steven@naturaltouchphotography.com,,,BASIC,6950,1,,,Steven,Rooney,,"52 Canning Road
+Southport
+Mersyyside
+PR9 7RN
+England",7793938105,United Kingdom,,,NoYes 220,StripeFreshbooks,6/29/2015
+
+,Mark,Andrew Gonzales,contact@markandrewg.com,,,PRINTER,6900,1,,,Mark,Andrew Gonzales,,"6211 Leaf Court, San Diego CA 92114",619-709-7915,US,92114,,YesYes,Check,6/3/2014
+
+,Veronica,Mendoza,info@beauandvero.com,,,PRINTER,7500,1,,,Veronica,Mendoza,,"670 Veneto Irvine CA 92614",949-415-8982,US,92614,,YesYes,"Check | Freshbooks - Stripe",6/3/2014
+
+,Allan,Zepeda,allanzepeda@mac.com,,,PRINTER+,9800,1,,,Allan,Zepeda,,"43-10 Crescent St
+#3205
+Long Island City New York 11101",(718) 974-7096,US,11101,,YesYes,StripeWebsite,6/3/2015
+
+,Joel,Llacar,joel@swoonandswagger.com,,,PRINTER+,9300,1,,,Joel,Llacar,,"882 Maplewood Ave
+Newbury Park CA 91320",(805) 870-5304,US,91320,,YesYes,Bank Transfer,6/3/2015
+
+,Jacklyn,Greenberg,jacklyn@jagstudios.net,,,PRINTER,807500",1,,,Jacklyn,Greenberg,,"59 Sandquist Circle Hamden CT 06514",2036417066,US,6514,,YesNo,StripeWebsite,6/4/2014
+
+,Rob,Russell,rob@robertrussellphotography.com,,,BASIC,5800,1,,,Rob,Russell,,"1856 Beaverbrook Ave
+London
+Ontario
+N6H 5X8
+Canada",5192047451,CA,N6H 5X8,,NoYes,StripeWebsite,6/4/2014
+
+,Brian,Carriger,brian@pbjprodj.com,,,BASIC,6900,1,,,Brian,Carriger,,"7807 Harcourt Springs Drive
+Indianapolis IN 46260",317-413-1102,US,46260,,Yes,"StripeFreshbooks | Bank Transfer",6/4/2015
+
+,Dana,Tate,info@danatateweddings.com,,,PRINTER+,9075,1,,,Dana,Tate,,"1115 Maywood Dr
+Eureka MO 63025",(636) 399-0831,US,63025,,YesNo,LeaseStation,6/4/2015
+
+,Sandy,Selinger,sandy@wix.com,,,PRINTER+,9300,1,,,Sandy,Selinger,,"Wix.com
+235 west 23rd street
+8
+New York New York 10011",646-325-5698,US,10011,,YesYes,StripeWebsite,6/4/2015
+
+,John,Arriola,john@fivestarweddingfilms.com,,,PRINTER,7700,1,,,John,Arriola,,"403 Kika De La Garza St. Edinburg TX 78539",9566865055,US,78539,,YesYes,StripeWebsite,6/5/2014
+
+,Courtney,Phillips,courtney.phillips@wearecollide.com,,,BASIC,13300,1,,,Courtney,Phillips,,"5514 Wilshire Blvd 9th floor
+Los Angeles CA 90036",(323) 592-3617,US,90036,,YesYes,StripeFreshbooks,6/9/2015
+
+,Kacy,Turner,courtney.phillips@wearecollide.com,,,BASIC,$0,1,,,Kacy,Turner,,"3020 Charlotte Ave
+Unit 678
+Nashville TN 37209",(323) 592-3617,US,37209,,YesYes,StripeFreshbooks,6/9/2015
+
+,Brian,Bossany,Brian@brianbossany.com,,,BASIC (DEMO),860000",1,,,Brian,Bossany,,"2053 128th Ave NW
+Coon Rapids MN 55448",763.400.1037,US,55448,,YesYes,StripeFreshbooks,7/1/2015
+
+,Jasmin,Martinez,picturethatphotobooths@gmail.com,,,PRINTER+,10044,1,,,Jasmin,Martinez,,"620 veterans blvd
+#217
+redwood city California 94063",4153146082,US,94063,,YesYes,StripeWebsite,7/1/2015
+
+,Shane,Clancey,sc@shaneclancey.com,,,PRINTER+,9300,1,,,Shane,Clancey,,"26417 Emerald Dove Dr.
+Valencia CA 91355",661 714 1170,US,91355,,YesYes,Cash,7/1/2015
+
+,David,Manning,studio@dmphotographers.com,,,BASIC,1400000",2,,,David,Manning,,"David Manning Photographers
+950 Law St.
+San Diego CA 92109",858-602-6261,US,92109,,YesYes,Cash,7/1/2015
+
+,Jana,Larson,jlarson25@hamline.edu,,,PRINTER,8200,1,,,Jana,Larson,,"1536 hewitt ave. ms-a1760
+saint paul Minnesota 55104",651-523-2812,US,55104,,YesYes,Bank Transfer,7/10/2015
+
+,Therese,De Jesus,hello@artiesestudios.com,,,PRINTER+,9300,1,,,Therese,De Jesus,,"3300 Don Mills Rd
+Unit #2501
+Toronto
+Ontario
+M2J 4X7
+Canada",4167377763,CA,M2J 4X7,,YesYes,"StripeWebsite | StripeFreshbooks",7/13/2015
+
+,Ashley,Granstad,ashley@brookeimages.com,,,PRINTER,8200,1,,,Ashley,Granstad,,"420 South Street
+Neptune Beach Florida 32266",9047045721,US,32266,,YesYes,StripeWebsite,7/14/2015
+
+,Matthew,Gaitan,mathew.gaitan@sfdr-cisd.org,,,PRINTER+,9300,1,,,Matthew,Gaitan,,"102 Ridgemont
+Del Rio TX 78840",605-607-7651,US,78840,,YesYes,LeaseStation,7/14/2015
+
+,Richard,McMullin,rich.mcmullin@me.com,,,PRINTER+,9800,1,,,Richard,McMullin,,"Attn.: Rich McMullin 7 North Haddon Avenue Haddonfieldâ€Ž NJâ€Ž 08033",(856) 979-8622,US,8033,,YesYes,LeaseStation,7/14/2015
+
+,Chris,Chen,mrchrischen@gmail.com,,,BASIC,5075,1,,,Chris,Chen,,"2231 East 28th Street Brooklyn NY 11229",646-262-2800,US,11229,,NoNo,Bank Transfer,7/15/2013
+
+,Jacob,Willis,studio@weheartphotography.com,,,BASIC,4520,1,,,Jacob,Willis,,"6812 Embarcadero Ln Carlsbad 92011",6198002402,US,92011,,NoNo,Check,7/15/2013
+
+,Christy,Klungness,snapshotmemoriesus@yahoo.com,,,PRINTER,7700,1,,,Christy,Klungness,,"Mcgee Hearne & Paiz LLP
+314 W 18th St
+Cheyenne Wyoming 82001",307-421-1931,US,82001,,YesYes,StripeWebsite,7/15/2014
+
+,Jesse,Green,jesse@mammothbooth.com,,,BASIC,6900,1,,,Jesse,Green,,"631 N. Hagadorn St. South Lyon Michigan 48178",2487946073,US,48178,,YesYes,StripeWebsite,7/15/2015
+
+,Wanty,Dimaren,wanthy@1stimpressionsstudio.com,,,PRINTER+,9300,1,,,Wanty,Dimaren,,"1806 BLUERIDGE AVE SILVER SPRING Maryland 20902",3017584340,US,20902,,YesYes,StripeWebsite,7/15/2015
+
+,Suzie,Puetz,suzie@suziepuetzphotography.com,,,PRINTER+,7700,1,,,Suzie,Puetz,,"3225 ne 28th avenue portlaned Oregon 97212",503-481-7120,US,97212,,NoYes,StripeWebsite,7/16/2014
+
+,Robert,Hilo,robert@hiloproductions.com,,,PRINTER,8856,1,,,Robert,Hilo,,"10602 chestnut st. cypress ca California 90630",714-365-1597,US,90630,,YesYes,StripeWebsite,7/16/2015
+
+,Steve,Kuzma,steve@skuzmaphotography.com,,,PRINTER,8000,1,,,Steve,Kuzma,,"5657 Cricket Lane Bensalem Pennsylvania 19020",2156201162,US,19020,,YesYes,StripeWebsite,7/16/2015
+
+,Janea,Greene,janeagreene@gmail.com,,,PRINTER,8700,1,,,Janea,Greene,,"1659 Fairway Oaks Ct Ripon CA 95366",(209) 482-0932,US,95366,,YesYes,LeaseStation,7/17/2015
+
+,Eric,Bautista,mail@partypixhawaii.com,,,BASIC,6100,1,,,Eric,Bautista,,"91-1532 Kaikoi Pl ewa beach Hawaii 96706",8087285823,US,96706,,YesYes,StripeWebsite,7/18/2014
+
+,Jarod,Morris,jarrod.morris@gmail.com,,,PRINTER+,4500,1,,,Jarod,Morris,,"5074 W 4175 S West Haven Utah 84401",4806956235,US,84401,,YesYes,Check,7/18/2014
+
+,Lynsey,Lastauskas,lynsey@lynseynoelphotography.com,,,PRINTER+,8800,1,,,Lynsey,Lastauskas,,"138 south main st.
+archbald Pennsylvania 18403",570-498-9922,US,18403,,YesYes,StripeWebsite,7/18/2014
+
+,Felipe,Reyes,flip.fr54@gmail.com,,,PRINTER+,9800,1,,,Felipe,Reyes,Paparazzi Entertainment LLC,"3601 E Mcdowell Rd Apt 3136
+Phoenix AZ 85008",(602) 291-3329,US,5008,,YesYes,LeaseStation,7/2/2015
+
+,Jessica,Galaviz,jessicagalaviz@yahoo.com,,,PRINTER+,8800,1,,,Jessica,Galaviz,,"1142 S. Rene Dr.
+Santa Ana CA 92704 ",(310) 429-0483,US,2704,,YesYes,StripeFreshbooks,7/2/2015
+
+,Brian,Cox,bcox1004@yahoo.com,,,PRINTER+,8800,1,,,Brian,Cox,,"2817 gunston bridge court
+chesapeake Virginia 23323",3304025445,US,23323,,YesYes,StripeWebsite,7/20/2014
+
+,Jim,Tan,jim@flypixar.com,,,BASIC,6484,1,,,Jim,Tan,,"342 miltonia close singapore 768357",65 9858 8922,Singapore,,,NoNO,Bank Transfer,7/20/2015
+
+,Herlinda,Gonzalez,linda_124@hotmail.com,,,PRINTER,8200,1,,,Herlinda,Gonzalez,,"720 quail ave
+apt 1
+mcallen Texas 78504",956-878-9000,US,78504,,YesYes,StripeWebsite,7/21/2015
+
+,Mi,Le,may@guesthouseevents.com,,,PRINTER+,9200,1,,,Mi,Le,,"900 N Stuart St Apt 519
+Arlington VA 22203",(858) 717-1661,US,22203,,NoYes,LeaseStation,7/21/2015
+
+,Sarena,Harris,sarenaeverett@gmail.com,,,PRINTER+,9300,1,,,Sarena,Harris,,"15076 Plainview
+Detroit MI 48223",(313) 595-0420,US,48223,,YesYes,LeaseStation,7/21/2015
+
+,Gemma,Miralles,gemmamiralles@msn.com,,,BASIC,6600,1,,,Gemma,Miralles,,"CARRER PARE SALLARES NUM. 21 BAIXOS. 08201 SABADELL (BARCELONA -SPAIN).",(0034) 667 67 08 42,Spain,8201,,NoYes,Bank Transfer,7/22/2014
+
+,Elizabeth,Lui,lizluiphotography@gmail.com,,,PRINTER+ UPGRADE ONLY,2400,1,,,Elizabeth,Lui,,"c/o The UPS Store 1658 N. Milwaukee Ave. Chicago IL 60647",(360) 333-4741,US,60647,,,StripeFreshbooks,7/22/2015
+
+,Stacey,Hedman,stacey@staceyhedman.com,,,PRINTER+,9800,1,,,Stacey,Hedman,,"90 Bracken fern road
+Marstons mills Massachusetts 02648",508-737-2558,US,2648,,YesYes,StripeWebsite,7/22/2015
+
+,Alden,Agoto,kimo1331@yahoo.com,,,PRINTER+,830000",1,,,Alden,Agoto,,"1074 Mikole St Bay #4 Honolulu HI 96819",8088482064,US,96819,,YesYes,StripeFreshbooks,7/23/2014
+
+,Carrie,Bradburn,carrie@capehartphotography.com,,,PRINTER+,9800,1,,,Carrie,Bradburn,,"50 Cocoanut Row Suite 117 Palm BEach Florida 33480",5618337507,US,33480,,YesYes,"StripeWebsite | StripeFreshbooks",7/23/2015
+
+,Roy,Ddungu,royrogersstudio@gmail.com,,,BASIC,5600,1,,,Roy,Ddungu,,"C/O Warner Bros. Bldg3 4000 Warner Blvd Bldg3 Burbank CA 91522",13103861628,US,91522,,YesYes,Paypal - $700 / $500 / $4400,7/24/2013
+
+,Khuram,Malik,kmalik@securtac.ca,,,PRINTER,760000",1,,,Khuram,Malik,,"118 Hainford Street Toronto Ontario M1E4Y5",4168048193,CA,M1E4Y5,,YesYes,StripeWebsite,7/24/2014
+
+,Eddy,Stahowiak,stack9design@gmail.com,,,PRINTER,6600,1,,,Eddy,Stahowiak,,"35 Woodbine St. Riverside RI 02915",(401) 398-0745,US,2915,,NoYes,Check ($4600) + Groupon Phone ($2000),7/26/2013
+
+,Aaron,Hogan,aaronhogan@eyewanderphoto.com,,,BASIC,6075,1,,,Aaron,Hogan,,"Eye Wander Photo Inc.
+7341 Jefferson Hwy. Suite M
+Baton Rouge Louisiana 70806",225-772-4051,US,70806,,NoNo,StripeWebsite,7/27/2015
+
+,David,Hernandez,stillandmotionmedia@gmail.com,,,BASIC,6075,1,,,David,Hernandez,,"6823 Stanley ave
+berwyn Illinois 60402",708-714-4575,US,60402,,NoNo,StripeWebsite,7/29/2015
+
+,Luca,Souza,luca.antuness@gmail.com,,,BASIC,6900,1,,,Luca,Souza,,"C/O: Luciana Souza 1335 Avenue of the Americas New York NY 10019",556299730620,Brazil,,,YesYes,StripeWebsite,7/29/2015
+
+,Derek,Montgomery,derek@derekmontgomery.com,,,BASIC,1400000",2,,,Derek,Montgomery,,"5018 Idlewild Street
+Duluth Minnesota 55804",2182699598,US,55804,,NoYes,StripeWebsite,7/3/2015
+
+,Alex,Peterson,alexandra.peterson@hotmail.com,,,PRINTER+,,1,,,Alex,Peterson,,"15 Poplar Street
+Howell NJ 07731",(732) 740-7866,US,7731,,YesYes,LeaseStation,7/30/2015
+
+,Eugene,Martinez,e-martinez123@hotmail.com,,,PRINTER,8200,1,,,Eugene,Martinez,,"73 Bunker Hill Rd
+Lawrenceville NJ 08648",303-709-7451,US,8648,,YesYes,StripeFreshbooks,7/30/2015
+
+,Elida,Ticula,eticula@gmail.com,,,BASIC,1290000",2,,,Elida,Ticula,,"28600 9 Mile Rd
+Farmington Hills Michigan 48336",2488925992,US,48336,,YesYes,"Bank Transfer | Check",7/30/2015
+
+,Lorna,Grasso,LGrasso@washoecounty.us,,,BASIC,24900,2,,,Lorna,Grasso,Washoe County Library,"SOUTH VALLEYS LIBRARY
+15650A WEDGE PARKWAY
+RENO NV 89523",775/327-8344,US,89523,,YesYes,,7/30/2015
+
+,Ariel,Murray,arielcmurray@gmail.com,,,PRINTER,7100,1,,,Ariel,Murray,,"The Merriment COmpany 156 Quick Street
+Phoenixville Pennsylvania 19460",207-280-0703,US,19460,,NoYes,StripeWebsite,7/5/2014
+
+,Jean,Oliveira,oliveirastudios88@gmail.com,,,BASIC,6900,1,,,Jean,Oliveira,,"180 kennedy dr #207
+malden MA 02148",(617) 771-9978,US,2148,,YesYes,LeaseStation,7/6/2015
+
+,Henry,Wu,henry@hwustudios.com,,,BASIC,5300,1,,,Henry,Wu,,"302 w 24th st Floor 1 Chicago Illinois 60616",3124936833,US,60616,,NoYes,StripeWebsite,7/7/2014
+
+,Isabel,Reyes,youandcompanyrentals@gmail.com,,,PRINTER,8200,1,,,Isabel,Reyes,,"20 S. Genesee St.
+waukegan Illinois 60085",847-951-8360,US,60085,,YesYes,StripeWebsite,7/7/2015
+
+,John,Flores,sheekbyj@gmail.com,,,PRINTER,8200,1,,,John,Flores,,"228 Brook St
+Seguin TX 78155",(830) 463-7777,US,78155,,YesYes,LeaseStation,7/7/2015
+
+,Bernie,Chiv,freshmoss@gmail.com,,,BASIC,1842,1,,,Bernie,Chiv,,,416.951.3111,US,,,NoNo,Paypal,7/8/2013
+
+,Daniel,Martinez,danielm25@gmail.com,,,PRINTER,8700,1,,,Daniel,Martinez,,"2401 University Blvd. Houston TX 77005",(832) 350-0340,US,77005,,YesYes,Bank Transfer,7/8/2015
+
+,John,Cappezutti,mswanson407@gmail.com,,,PRINTER+,9800,1,,,John,Cappezutti,,"PHILA PHOTO WORLD
+1434 s 20th st
+philadelphia Pennsylvania 19146",3024017167,US,19146,,YesYes,StripeWebsite,7/8/2015
+
+,Martel,Love,martellove@gmail.com,,,PRINTER+,9300,1,,,Martel,Love,,"9975 Outerdrive
+Detroit MI 48223 ",(313) 482-0111,US,8223,,YesYes,LeaseStation,7/8/2015
+
+,Nicole,Harrell,nicoleharrell08@gmail.com,,,PRINTER+,9300,1,,,Nicole,Harrell,,"10906 Brickside Ct.
+Riverview FL 33579",(813) 382-0743,US,33579,,YesYes,LeaseStation,7/8/2015
+
+,Zac,Wolf,zacxwolf@gmail.com,,,PRINTER+,2181000",3,,,Zac,Wolf,,"137 Englewood Ave #4
+ Brighton MA 02135",(561) 2892282,US,2135,,NoYes,StripeFreshbooks,7/8/2015
+
+,Daniel,MacGregor,macgregor.daniel@gmail.com,,,PRINTER,7700,1,,,Daniel,MacGregor,,"1490 River Rd Eureka Nova Scotia B0K 1B0",902-440-3962,CA,B0K 1B0,,YesYes,StripeWebsite,8/10/2014
+
+,Jackie,Spigener,admin@silversycamore.com,,,PRINTER,8200,1,,,Jackie,Spigener,,"5111 Pine St.
+Pasadena Texas 77503",(281) 487-4033,US,77503,,YesYes,StripeFreshbooks,8/10/2015
+
+,Edward,Patterson,ted@coolpixphotobooth.com,,,PRINTER+,10880,1,,,Edward,Patterson,,"411 W. Conestoga Road #2
+Devon PA 19333",(215) 646-6800,US,19333,,YesYes,LeaseStation,8/12/2015
+
+,Kimberly,Powers,kimpowers2@cox.net,,,PRINTER+,9300,1,,,Kimberly,Powers,,"2222 Fire Mountain Drive
+Oceanside CA 92054",(760) 908-1662,US,92054,,YesYes,Check (Marlin Leasing),8/12/2015
+
+,Joachim,Braset,joachim.braset@gmail.com,,,PRINTER+,8775,1,,,Joachim,Braset,,"NINA & JOACHIM AS
+TRANEVEIEN 10B
+1447 DRÃ˜BAK
+NORWAY",4790937159,Norway,,,Yes220V,StripeFreshbooks,8/13/2014
+
+,Lara,Woolfson,lara@thestudionouveau.com,,,PRINTER,8200,1,,,Lara,Woolfson,,"
+681 Main st Ste 323
+Waltham MA 02451 ",(603) 305-9568,US,2451,,YesYes,LeaseStation,8/13/2015
+
+,Steven,Neff,sneff@squarespace.com,,,BASIC,13090,2,,,Steven,Neff,Squarepace,"(send to Joe to deliver) 222 NW 5th Ave. 4th FL Portland OR 97209-3812",207-844-4183,US,97209,,YesYes,StripeFreshbooks,8/13/2015
+
+,Emily,Clack,emily@emilyclackphotography.com,,,PRINTER+,9300,1,,,Emily,Clack,,"719 Otis Place NW Apt 2
+Washington DC 20010",(804) 931-7479,US,20010,,YesYes,LeaseStation,8/14/2015
+
+,Amy,Hammon,amyfederal2020@aol.com,,,PRINTER+,6900,1,,,Amy,Hammon,,"3480 Sunbeam Drive
+Sarasota Florida
+34240",9417735017,US,34240,,NoYes,StripeFreshbooks,8/15/2014
+
+,Thomas,McShane,tmcshane@ces-us.net,,,PRINTER+,8800,1,,,Thomas,McShane,,"City Electric Supply
+2501 N. Harwood St
+Suite 1520
+Dallas Texas 75201",7723414470,US,75201,,YesYes,StripeWebsite,8/15/2014
+
+,Austin,Corbett,acorbett@bu.edu,,,BASIC,6300,1,,,Austin,Corbett,,"1863 Commonwealth Ave Unit 2
+Brighton MA 02135",931-216-3071,US,2135,,NoYes,"Check | StripeFreshbooks",8/17/2015
+
+,Christina,Primero,cprimero@nycap.rr.com,,,PRINTER+,9300,1,,,Christina,Primero,,"Christina Primero
+Christina primero photography
+391 albany shaker road
+Albany New York 12211",5183651908,US,12211,,YesYes,StripeFreshbooks,8/17/2015
+
+,Christopher,Armstrong,carmstrong@christopherarmstrongphotography.com,,,PRINTER+,9500,1,,,Christopher,Armstrong,,"27490 Hwy 16
+Esparto CA 95627",(530) 979-0070,US,95627,,YesYes,LeaseStation,8/17/2015
+
+,Matt,Ramos,matt@mattramosphotography.com,,,PRINTER,,1,,,Matt,Ramos,,"309 westwoods ct
+schenectady New York 12303",518-377-4346,US,12303,,YesNo,StripeFreshbooks,8/18/2015
+
+,Jill,Tramel,jtramel@ymca.org,,,PRINTER+,8800,1,,,Jill,Tramel,,"jill tramel / Amanda Tramel
+ymca of san diego county
+3708 ruffin rd.
+san diego California 92123","
+858-292-9622",US,92123,,YesYes,StripeWebsite,8/19/2014
+
+,Nayeem,Vohra,nayeem@nayeemvohra.com,,,PRINTER+,8475,1,,,Nayeem,Vohra,,"105 Rye Road
+Cherry hill NJ 08003",856-520-0344,US,8003,,NoNo,StripeFreshbooks,8/19/2015
+
+,Anna,Michalska,anna@annamichalska.com,,,PRINTER,6875,1,,,Anna,Michalska,,"Anna Michalska Photography F405 4240 37 Street SW Calgary Alberta T3E 3C4 Canada",403-921-9491,CA,T3E 3C4,,NoNo,StripeWebsite,8/2/2014
+
+,Jonathan,Gottfried,jon@mlh.io,,,BASIC,6400,1,,,Jonathan,Gottfried,,"3205 Boardwalk Dr
+Courtyard Ann Arbor
+Ann Arbor Michigan 48108",8453045375,US,48108,,NoYes,StripeWebsite,8/21/2014
+
+,Brandon,Myers,brandonmyers@ymail.com,,,PRINTER+,,1,,,Brandon,Myers,,"200 Groveland
+Irvine CA 92620",949-228-2014,US,92620,,NoYes,StripeFreshbooks,8/21/2015
+
+,Tim,Mart,tim.mart@fun.com,,,PRINTER,,1,,,Tim,Mart,FUN.com,"FUN.com
+2080 Lookout Drive
+North Mankato Minnesota 56003",5073868494,US,56003,,YesYes,StripeWebsite,8/21/2015
+
+,Irmak,Seyda,irmak@untouchableevents.com,,,PRINTER,,1,,,Irmak,Seyda,"Untouchable Events LLC","20 West 22nd St Ste 411
+New York NY 10010",(212) 924-6299,US,10010,,YesYes,LeaseStation,8/24/2015
+
+,Raja,Valeti,basanth48@gmail.com,,,BASIC,6900,1,,,Raja,Valeti,,"120 Ridge st
+APT 3B
+New York New York 10002",2679021596,US,10002,,YesYes,StripeWebsite,8/24/2015
+
+,Spring,Austin,spring@skyline-entertainment.com,,,PRINTER,,1,,,Spring,Austin,,"2046 Hillhurst Ave. #109
+Los Angeles CA 90027 ",(800) 613-2495,US,90027,,YesYes,LeaseStation,8/24/2015
+
+,Adam,Lobdell,adam@aaphotopgh.com,,,PRINTER,8200,1,,,Adam,Lobdell,,"1701 West Liberty ave
+Pittsburgh Pennsylvania 15226",4122921873,US,15226,,YesYes,StripeWebsite,8/26/2015
+
+,Jared,Humphries,Jared.Humphries@calvaryabq.org,,,BASIC,6900,1,,,Jared,Humphries,,"4001 Osuna Rd. NE
+Albuquerque NM 87109",505.338.3686,US,87109,,YesYes,StripeFreshbooks,8/26/2015
+
+,John,Carty,johncartyphoto@gmail.com,,,BASIC,6900,1,,,John,Carty,,"
+5095 NAPILIHAU ST
+LAHAINA HI 96761 ",(808) 276-8733,US,96761,,YesYes,LeaseStation,8/26/2015
+
+,Paul,Koziorowski,hello@nokophotoboothco.com,,,BASIC,11600,1,,,Paul,Koziorowski,Noko Photobooth,"Raph Nogal 222 Islington Avenue Unit 226
+Toronto Ontario
+M8V3W7
+Canada",416.895.5314,CA,M8V3W7,,NoYes,,8/27/2015
+
+,Stephen,Lin,stephen@linstephen.com,,,BASIC,13300,1,,,Stephen,Lin,,"Stephen Lin 470 NE 5 Ave. 3225, Ft. Lauderdale Florida 33301","(646) 783-8310
+(323) 984 8542",Kazakhstan,33301,,YesYes 220V,StripeFreshbooks,8/28/2015
+
+,Tri,Trinh,tri@hotpinkphotobooth.com,,,PRINTER+,9300,1,,,Tri,Trinh,,"hot pink photo booth 1830 r street nw apartment 2 washington District Of Columbia 20009",2025671448,US,20009,,YesYes,StripeWebsite,8/28/2015
+
+,Andrew,Watkins,andy.watkins@perfectperceptions.com,,,PRINTER+,8800,1,,,Andrew,Watkins,,"217 Pickering Rd Rochester New Hampshire 03867",6039483032,US,3867,,YesYes,StripeWebsite,8/3/2014
+
+,Kenzi,Phillips,kenzi@visiteauclaire.com,,,PRINTER,7200,1,,,Kenzi,Phillips,,"4319 Jeffers Road Suite 201
+Eau Claire WI 54703",715-559-9185,US,54703,,YesYes,Check,8/31/2013
+
+,Brian,Huey,brian@hueyimages.com,,,BASIC,6900,1,,,Brian,Huey,,"3159 Beverly Ave
+Clovis CA 93619 ",(559) 259-7395,US,93619,,YesYes,LeaseStation,8/31/2015
+
+,Katie,Harris,katieharris1989@yahoo.com,,,PRINTER,8700,1,,,Katie,Harris,,"281 Oakville Dr. Apt TB
+Pittsburgh PA 15220",(740) 632-8412,US,15220,,YesYes,LeaseStation,8/31/2015
+
+,Thomas,Momenee,musicbytomtom@gmail.com,,,PRINTER,8200,1,,,Thomas,Momenee,,"5269 Genoa Rd
+Perrysburg OH 43551",(419) 944-9178,US,43551,,YesYes,LeaseStation,8/31/2015
+
+,Alison,Hobelmann,alison.l.hobelmann@gmail.com,,,BASIC,6400,1,,,Alison,Hobelmann,,"alison dunn photography
+672 franklin place
+apt. e
+philadelphia Pennsylvania 19123",301-385-3190,US,19123,,YesYes,Paypal - Website,8/4/2014
+
+,Elizabeth,Waldorf,elizabeth@mzed.com / madeline@mzed.com,,,PRINTER+,3000,1,,,Elizabeth,Waldorf,,"10335 Kensington Pkwy
+20895 MD US",13019864436,US,20895,,YesYes,StripeFreshbooks,8/4/2014
+
+,Chike,Okeke,cao9505@gmail.com,,,BASIC,7650,1,,,Chike,Okeke,Smiley Time Booth Co,"436 Williamson St SE
+Marietta GA 30060",9135150662,US,30060,,YesYes,StripeFreshbooks,8/4/2015
+
+,Michael,Murphree,michael@litetrap.com,,,PRINTER,7700,1,,,Michael,Murphree,,"litetrap Booths
+5356 Medina Rd.
+Woodland Hills California 91364",323-988-0925,US,91364,,YesYes,StripeWebsite,8/6/2014
+
+,Jacques,Santos,contact@onedistrictmedia.com,,,PRINTER+,9300,1,,,Jacques,Santos,,"14040 biscayne blvd
+902
+north miami Florida 33181",7862178385,US,33181,,YesYes,StripeWebsite,8/6/2015
+
+,Ben,Chrisman,ben@chrismanstudios.com,,,PRINTER+,5580,1,,,Ben,Chrisman,,131 Darlington Avenue Charleston South Carolina 29403,415.640.7891,US,29403,,YesYes,StripeFreshbooks,9/1/2015
+
+,Tawny,Alipoon,hello@tawnyalipoon.com,,,BASIC,6900,1,,,Tawny,Alipoon,,"2040 Norwalk Ave
+Los Angeles California 90041",9098563096,US,90041,,YesYes,StripeWebsite,9/1/2015
+
+,Tomy,Quevauvilliers,tomy.quevauvilliers@planitswiss.com,,,BASIC,7332,1,,,Tomy,Quevauvilliers,,"PLANITSWISS SARL
+CH. Des Ramiers 22
+1009 â€“ PULLY
+SWITZERLAND ",41 21 320 13 30,Switzerland,,,Yes220V,Bank Transfer,9/1/2015
+
+,Chris,Sturniolo,Csturniolo@gmail.com,,,PRINTER,7200,1,,,Chris,Sturniolo,,"Steven Mikesell 5440 Garland St. Arvada CO 80002",303-619-9532,US,80002,,YesYes,"Paypal - $2400 Charles Deibel
+$2400 Morganne Mikesell
+$2400 Christopher Sturniolo",9/10/2013
+
+,Matthew,Lee,matthew@clybymatthew.com,,,PRINTER+,7300,1,,,Matthew,Lee,,"CLY BY MATTHEW
+580 Broadway #1008 New York NY. 10012Â ",917-648-5780,US,10012,,YesYes,StripeFreshbooks,9/10/2014
+
+,David,Wang,davidwangla@me.com,,,PRINTER+,9300,1,,,David,Wang,Funtastic Photobooth,"420 S Chandler Ave
+Monterey Park CA 91754 ",(626) 200-9880,US,91754,,YesYes,LeaseStation,9/10/2015
+
+,Haifa,Al-Sharif,halsharif@gmail.com,,,PRINTER,8200,1,,,Haifa,Al-Sharif,,"Ghada Alsharif / Haifa Al-Sharif
+4283 EXPRESS LN STE 228-621
+SARASOTA FL 34238-2602",(941) 538-6941,US,34238,,Yes220V,Bank Transfer,9/10/2015
+
+,Kathleen,Green,photosbykgreen@sbcglobal.net,,,PRINTER+,9200,1,,,Kathleen,Green,,"5478 Breshly Way
+Westerville OH 43081",(614) 440-1661,US,43081,,NoYes,LeaseStation,9/10/2015
+
+,Wren,Agapito,wren_agapito@yahoo.com,,,PRINTER,7700,1,,,Wren,Agapito,,"106 main street
+1
+Whitehorse
+Yukon Territory
+Y1A 2A8
+Canada",18673343212,CA,Y1A 2A8,,YesYes,StripeWebsite,9/11/2014
+
+,James,Garcia,james@seekstudiosphotography.com,,,PRINTER,8200,1,,,James,Garcia,,"4714 Clark Ave
+Long Beach CA 90808",(562) 416-5266,US,90808,,YesYes,LeaseStation,9/11/2015
+
+,Shannon,Josey,photoguru1977@gmail.com,,,PRINTER,8200,1,,,Shannon,Josey,,"282 Indian Paint Brush Dr
+Mooresville North Carolina 28115",704-658-6976,US,28115,,YesYes,StripeWebsite,9/11/2015
+
+,Robby,Aulakh,robbyaulakh@hotmail.com,,,PRINTER,7200,1,,,Robby,Aulakh,,"Cust #: 51983
+115 Garfield St. Sumas
+WA 98295
+United States",(604) 8074023,US,98295,,YesYes,Groupon over Phone,9/12/2013
+
+,Chris,Bailey,chrisbailey@cbaileyphotography.com,,,PRINTER,7700,1,,,Chris,Bailey,,"Chris Bailey Photography
+4809 Blossom St.
+Houston Texas 77007",7135181452,US,77007,,YesYes,StripeWebsite,9/12/2014
+
+,Karlo,Pizarro,kpizarro@me.com,,,PRINTER+,8800,1,,,Karlo,Pizarro,,"7905 lago vista ln #202
+las vegas Nevada 89145",7028821671,US,89145,,YesYes,StripeWebsite,9/12/2014
+
+,Kenni,Bulger,kenni@thecarriagehousehouston.com,,,PRINTER,7600,1,,,Kenni,Bulger,,"3915 W DAVIS SUITE 130-130 CONROE Texas 77304",936-588-4083,US,77304,,NoYes,StripeWebsite,9/12/2015
+
+,Kelly,Moore Clark,kelly@kellymoorephotography.com,,,PRINTER,7700,1,,,Kelly,Moore Clark,,"Kelly moore bag
+432 beatty rd.
+Ruston Louisiana 71270",318-245-0507,US,71270,,YesYes,Paypal - Website,9/13/2014
+
+,Glen,McDowell,glen@mcdowellphoto.com,,,BASIC,1000,1,,,Glen,McDowell,,"Glen McDowell Photography
+5 Winham Street #4
+Salinas CA 93901",831-596-3143,US,93901,,YesYes,Stripe - Jotform,9/14/2014
+
+,Apresh,Chavda,apresh@gmail.com,,,PRINTER+,8600,1,,,Apresh,Chavda,,"1 Lovett Road
+Harefield
+UB9 6DN
+United Kingdom",447747777007,United Kingdom,,,Yes220V,Bank Transfer,9/15/2015
+
+,Hatim,Kheir,hatimkheir@hotmail.com,,,PRINTER,7983,1,,,Hatim,Kheir,,"1150 ripley streeT Apartment 1116 Silver spring Maryland 20910",306-460-0049,US,20910,,YesYes,Bank Transfer,9/15/2015
+
+,Christina,Mills,still55photography@gmail.com,,,PRINTER+,8800,1,,,Christina,Mills,,"212 5th Street St Augustine FL 32080-2906",336-675-3043,US,32080,,YesYes,"StripeWebsite | StripeFreshbooks",9/16/2014
+
+,Ricky,A Villareal,rickydakine@gmail.com,,,PRINTER+,8800,1,,,Ricky,A Villareal,,"36 w. 28th avenue
+san mateo California 94403-2463",650-670-7965,US,94403,,YesYes,"Bank Transfer | Check",9/16/2014
+
+,Daniel,Carson,carson@magenboys.com,,,PRINTER,1420000",2,,,Daniel,Carson,,"30 Rivermede Rd. Unit 2
+Vaughan Ontario
+L4K 3N3",905-761-0076,CA,L4K 3N3,,YesYes,Paypal,9/16/2014
+
+,Bhima,Shakya,snap619photo@gmail.com,,,PRINTER,8208,1,,,Bhima,Shakya,,"2766 treat street
+San diego California 92102",5033173223,US,92102,,NoYes,StripeWebsite,9/17/2015
+
+,Emily,McMurry,emily@emp-studios.com,,,PRINTER+,9300,1,,,Emily,McMurry,,"310 2nd Ave SE
+Decatur AL 35603",(256) 686-3996,US,35603,,YesYes,Prefund Leasestation,9/17/2015
+
+,Jennifer,White,jenn@photoboothonwheels.com,,,PRINTER,8700,1,,,Jennifer,White,,"11014 Tipton Oaks Dr
+Richmond TX 77406 ",(832) 600-6502,US,77406,,YesYes,LeaseStation,9/17/2015
+
+,Tim,White,tim@photoboothonwheels.com,,,PRINTER,8700,1,,,Tim,White,,"11014 Tipton Oaks Dr
+Richmond TX 77406 ",(832) 600-6502,US,77406,,YesYes,LeaseStation,9/17/2015
+
+,Jessica,Pfeufer / Jill Ross,howdy@2bettiesinabooth.com,,,PRINTER+,4400,1,,,Jessica,Pfeufer / Jill Ross,,"713 Huntington Way
+94503 CA US",,US,94503,,YesYes,StripeFreshbooks,9/18/2014
+
+,Kelly,Davison,kelly.davison@ksdandassociates.com,,,PRINTER,7200,1,,,Kelly,Davison,,"219 Hawkwood Drive NW Calgary AB T3G 3M9",778 789 6448,CA,T3G 3M9,,YesYes,Paypal - eCheck,9/19/2013
+
+,Pete,Vossler,pjv@crosswindsnv.org,,,BASIC,4975,1,,,Pete,Vossler,,"104 Georgetown Ln. Costa Mesa CA 92626",949-945-8857,US,92626,,NoNo,Paypal,9/2/2013
+
+,Kelsey,Harrison,kelseybutlerphotography@gmail.com,,,PRINTER,8200,1,,,Kelsey,Harrison,,"12531 Hwy 71 West
+Apartment P1007
+Austin TX 78738",2144574569,US,78738,,YesYes,StripeFreshbooks,9/2/2015
+
+,Kathryn,Krueger,kathryn@kathrynkrueger.com,,,BASIC,5040,1,,,Kathryn,Krueger,,,847.997.5306,US,,,NoNo,4 Checks of $869 from KK + $1564 from Ken Clunk for doing event,9/20/2013
+
+,Dawn,Moreno,dawnamore55@gmail.com,,,PRINTER+,10044,1,,,Dawn,Moreno,,"Dawn moreno
+sweet lindy
+p.o. box 484
+loma linda California 92354",2137035075,US,92354,,YesYes,Bank Transfer,9/21/2015
+
+,Hunter,Thompson,huntertphoto@gmail.com,,,BASIC,6300,1,,,Hunter,Thompson,,"Vert Photo
+4400 S Monaco St
+Apt 233
+Denver Colorado 80237",7194400501,US,80237,,NoYes,StripeWebsite,9/21/2015
+
+,Susan,Carroccetto,scarroccetto@yahoo.com,,,PRINTER,7200,1,,,Susan,Carroccetto,,"12136 Palm Street
+San Antonio FL 33576",813-928-5495,US,33576,,YesYes,Paypal / $1000 + $6200,9/22/2013
+
+,Eric,Schwanke,ericmschwanke@gmail.com,,,PRINTER+,6135,1,,,Eric,Schwanke,,"Carbon Copy Studios 915 Allouez Terrace
+Green Bay WI 54301 ",(920) 791-0475,US,4301,,No: Need ACK15Yes,LeaseStation,9/22/2015
+
+,Allie,Pauline,allie@studio220photography.com,,,PRINTER+,8800,1,,,Allie,Pauline,,"17926 liv ln. Minnesota 55346",612-206-0502,US,55346,,YesYes,StripeWebsite,9/23/2014
+
+,Melissa,Esplin,melissa@melissaesplin.com,,,PRINTER,7700,1,,,Melissa,Esplin,,"1795 Walnut Grove Drive
+Draper UT 84020
+United States",801-683-9796,US,84020,,YesYes,Paypal,9/23/2014
+
+,Bill,Willets,dynamicbeat@optonline.net,,,PRINTER+,8800,1,,,Bill,Willets,,"206 Hampton Ave
+Mastic NY 11950",(631) 399-6942,US,11950,,YesYes,ACH - Bank Transfer,9/25/2014
+
+,Chase,Pedigo,chase_pedigo@yahoo.com,,,PRINTER+ NO DS40,7275,1,,,Chase,Pedigo,,"Chase Pedigo
+4307 Boughton Ln.
+Humble TX 77396 ",832 233 6872,US,77396,,YesNo,StripeFreshbooks,9/25/2014
+
+,Legia,Oswald,legiaoswald@me.com,,,PRINTER+,4650,1,,,Legia,Oswald,,"45 Summit Ridge Place
+Woodside CA 94062",415.819.1163,US,94062,,YesYes,StripeFreshbooks,9/25/2014
+
+,Chen,JunZhi,cjunzhi@gmail.com,,,PRINTER+,8700,1,,,Chen,JunZhi,,Blk 329 Tah Ching Road #12-92 Singapore 610329,65 9757 8211,US,10329,,YesYes 220V,Bank Transfer,9/25/2015
+
+,Matthew,Crown,matt@klique.com,,,BASIC,7400,1,,,Matthew,Crown,,"klique inc.
+3373 rum row
+naples Florida 34102",2392485425,US,34102,,YesYes,StripeWebsite,9/25/2015
+
+,Ranganathan,Rajaram,djrang@me.com,,,PRINTER+,9800,1,,,Ranganathan,Rajaram,,"DJ Rang
+2500 Friedland Place
+200
+Raleigh North Carolina 27617",9197492567,US,27617,,YesYes,Check,9/25/2015
+
+,Michelle,Groom,michelle@meleamore.com,,,PRINTER,6600,1,,,Michelle,Groom,,"248 Victoria Street Suite One Costa Mesa 92627",714.206.3738,US,92627,,YesYes,Paypal,9/26/2013
+
+,Ralph,Corpuz,ralphandcreations@gmail.com,,,PRINTER,6600,1,,,Ralph,Corpuz,,"1051 Site Dr. Space 213 Brea CA 92821",(562) 826-7411,US,92821,,NoYes,Check,9/27/2013
+
+,Kathleen,Patterson,kpatterson@usafootball.com,,,BASIC,9059,1,,,Kathleen,Patterson,USA Football,"BDA Inc.
+Attn: Jim Ridner/NFL FLAG
+1201 Perry Road
+Plainfeild IN 46168",317-614-7740,US,46168,,YesYes,StripeFreshbooks,9/29/2015
+
+,Mark,Thomas,hiedie@citadevelopment.com,,,PRINTER,8200,1,,,Mark,Thomas,,"1201 24th Street Ste: B210
+Bakersfield CA 93301 ",(661) 201-8454,US,3301,,YesYes,Prefund LeaseStation,9/29/2015
+
+,Ali,and Laura,info@aliandlaura.com,,,BASIC,6400,1,,,Ali,and Laura,,"Laura Moore
+Ali and Laura Photography
+26a Spencer Road
+L'Derry
+BT47 3FJ
+02871345961",7872048352,US,45961,,YesYes,Bank Transfer,9/30/2014
+
+,Andy,Chang,andywchang@gmail.com,,,BASIC,278750",1,,,Andy,Chang,,"825 New York Ave.
+Room 1002
+Brooklyn NY 11203",6318975375,US,11203,,NoNo,Paypal - Invoice,9/30/2014
+
+,Jason,Matriano,jason.matriano@gmail.com,,,BASIC,1810000",3,,,Jason,Matriano,,"16 Memorial Hwy Floor 2 New Rochelle NY 10801",646-872-8996,US,10801,,NoYes,StripeFreshbooks,9/30/2014
+
+,Jayson,Bell,jaysonbell@hotmail.com,,,BASIC,6510,1,,,Jayson,Bell,,01-32 block 84 Dakota crescent Singapore 399948,65 9022 7120,US,99948,,NoYes,StripeFreshbooks,9/4/2014
+
+,Alex,Casas,casasa@gmail.com,,,(USED) PRINTER+,7500,1,,,Alex,Casas,,"7513 Cherokee Rd
+Richmond VA 23225 ",(804) 683-2565,US,23225,,YesYes,StripeFreshbooks,9/4/2015
+
+,Grace,Kwock,grace@kai-photo.com,,,BASIC,1065000",2,,,Grace,Kwock,,"Kai-Photo Hawaii
+1311 Kapiolani Blvd Suite 510
+Honolulu HI 96814",808-591-1882,US,96814,,NoNo,Paypal,9/5/2013
+
+,Loretta,Wang,l.wang32@gmail.com,,,BASIC,6130,1,,,Loretta,Wang,,"1054 N Chester Ave Pasadena CA 91104",626-321-2960,US,91104,,YesYes,Cash,9/5/2014
+
+,Matthew,Willauer,mattwillauer@gmail.com,,,PRINTER,7200,1,,,Matthew,Willauer,,"841 Poplar St
+Pottstown PA 19464
+United States",610-322-8180,US,19464,,YesYes,Paypal,9/8/2013
+
+,Kendall,Ellis,kendall@kendallpooleeventplanning.com,,,PRINTER+,9300,1,,,Kendall,Ellis,,"11 Pear Orchard Park Jackson Mississippi 39211",601-941-1432,US,39211,,YesYes,StripeWebsite,9/8/2015
+
+,Barbara,Le,ibabsie@gmail.com,,,PRINTER+,8300,1,,,Barbara,Le,,"7830 Westside Dr APT 102 San Diego CA 92108",(978) 7262039,US,92108,,YesYes,StripeFreshbooks,01/01/2011
+
+,Lyndah,Wells,hello@lyndahwells.com,,,PRINTER+,8800,1,,,Lyndah,Wells,,"sw 34th street suite 107 fort lauderdale Florida 33315",9542371631,Bahamas,33315,,YesYes,Bank Transfer,
